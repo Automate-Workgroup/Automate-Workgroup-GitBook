@@ -4,20 +4,20 @@
 
 
 
-ddd
+Overview
 
 ## Automation Actions
 
-cc
+How to create a page for a GitHub action that is chargeable
 
 ## Documentation
 
-
-
-vv
+What you need to document for a GitHub action that is chargeable
 
 ## Charging
 
-cc
+What you have charged for this GitHub action
 
 ## Sign Off
+
+Who signs this action off into production
