@@ -10,9 +10,11 @@ description: Circle KPI automation
 
 Reference example:&#x20;
 
-[https://cc-treasury.github.io/CircleKPIs/](https://cc-treasury.github.io/CircleKPIs/)&#x20;
+{% embed url="https://cc-treasury.github.io/CircleKPIs" %}
 
 {% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
+
+## Code
 
 ```
 jobs:
