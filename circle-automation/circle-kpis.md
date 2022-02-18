@@ -12,4 +12,16 @@ Reference example:&#x20;
 
 [https://cc-treasury.github.io/CircleKPIs/](https://cc-treasury.github.io/CircleKPIs/)&#x20;
 
-[https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml](https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml)
+{% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
+
+```
+jobs:
+  create_issue:
+    name: Create team sync issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+```
+
+
+
