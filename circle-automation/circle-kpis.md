@@ -29,19 +29,14 @@ jobs:
 
 ## Charging / Budget
 
+| Task                        | Hours | Charge |
+| --------------------------- | ----- | ------ |
+| development                 | 4     | 160    |
+| testing                     | 2     | 80     |
+| implemenation in production | 1     | 40     |
+| Totals                      | 7     |        |
 
 
-XLS
-
-eg
-
-4 hours development
-
-2 hours testing
-
-1 hour implemenation in production
-
-$40 a hour
 
 
 
