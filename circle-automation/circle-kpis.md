@@ -27,14 +27,14 @@ jobs:
 
 
 
-## Charging / Budget
+## Charging / Budget (Example)
 
-| Task                        | Hours | Charge |
-| --------------------------- | ----- | ------ |
-| development                 | 4     | 160    |
-| testing                     | 2     | 80     |
-| implemenation in production | 1     | 40     |
-| Totals                      | 7     |        |
+| Task                         | Hours | Charge    |
+| ---------------------------- | ----- | --------- |
+| Development                  | 4     | $ 160     |
+| Testing                      | 2     | $ 80      |
+| Implementation in production | 1     | $ 40      |
+| **Totals**                   | **7** | **$ 280** |
 
 
 
