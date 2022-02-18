@@ -6,7 +6,7 @@ description: Circle KPI automation
 
 
 
-
+![](<../.gitbook/assets/2022-02-18 (1).png>)
 
 Reference example:&#x20;
 
