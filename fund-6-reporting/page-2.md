@@ -6,6 +6,8 @@
 
 ## Notes
 
-1\) Andre Diamond is now a member of the Distributed Auditability Proposal team
+1\) The proposal is now in progress
 
-2\) The scope has changed to cover automation of CC Admin Treasury, Circle & ...
+2\) Andre Diamond is now a member of the Distributed Auditability Proposal team
+
+3\) The scope has changed to cover automation of CC Admin Treasury, Circle & ...
