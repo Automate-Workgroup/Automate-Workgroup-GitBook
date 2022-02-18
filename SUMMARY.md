@@ -9,3 +9,4 @@
 ## Circle-Automation
 
 * [Town Hall Slides](circle-automation/town-hall-slides.md)
+* [Circle KPIs](circle-automation/circle-kpis.md)
