@@ -33,6 +33,16 @@ jobs:
 
 XLS
 
+eg
+
+4 hours development
+
+2 hours testing
+
+1 hour implemenation in production
+
+$40 a hour
+
 
 
 ## Sign-Off
