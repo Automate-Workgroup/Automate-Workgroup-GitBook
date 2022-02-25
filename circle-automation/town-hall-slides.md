@@ -12,7 +12,7 @@ Funded by Distributed Auditability
 
 ![](../.gitbook/assets/Untitled.png)
 
-Creating a GitHub action that pulls data from a template issue markdown file, creates an issue with that data and places the issue in the project and column of your choice.
+Creating a GitHub action that pulls data from a template issue markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
 
 ## Reference Example
 
