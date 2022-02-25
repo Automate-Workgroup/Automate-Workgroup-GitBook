@@ -14,6 +14,8 @@ Funded by Distributed Auditability
 
 Creating a GitHub action that pulls data from a template issue markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
 
+![](<../.gitbook/assets/Untitled (2).png>)
+
 ## Reference Example
 
 [Project board with the Town Hall Issue](https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/projects/1)
