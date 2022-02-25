@@ -77,3 +77,14 @@ Funded by Open Source Training
 
 [https://cardano.ideascale.com/c/idea/368678](https://cardano.ideascale.com/c/idea/368678)
 
+## Charging/Budget
+
+| Task | Hours | Charge |
+| ---- | ----- | ------ |
+|      |       |        |
+|      |       |        |
+|      |       |        |
+
+## Sign-off
+
+Where it is in production and who signed it off
