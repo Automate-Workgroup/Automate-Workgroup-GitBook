@@ -16,7 +16,7 @@ The complete code for this GitHub action can be found at the bottom of this page
 
 1. Below you can see an example of the issue template file. Note that the action won't work if the label field is empty. Also note the path this file is stored in.&#x20;
 
-![Issue template](<../.gitbook/assets/Untitled (3).png>)
+![Issue template](<../.gitbook/assets/Untitled (3) (1).png>)
 
 Below is where you edit the path that points to your issue template file. Notice that you start the path from ".github/..."
 
@@ -32,7 +32,7 @@ Below is where you edit the path that points to your issue template file. Notice
 
 2\. Next you need to identify the project number. Go to your project board and look at the URL bar in your browser. The last digit is your project number. Also note the name of the column you want the issue to reside in.
 
-![](<../.gitbook/assets/Untitled (2).png>)
+![](<../.gitbook/assets/Untitled (2) (1).png>)
 
 At the bottom of the yaml file you'll notice the fields where you can edit  the project number and column name.
 
@@ -92,9 +92,19 @@ Next up go to the repo settings.
 
 ![](<../.gitbook/assets/Untitled (6).png>)
 
-Click on secrets.
+Click on secrets and then on actions.
 
-![](<../.gitbook/assets/Untitled (1).png>)
+![](<../.gitbook/assets/Untitled (3).png>)
+
+Click on New repository secret (top right), then on the next page paste the code you copied into the value field and type PAT into the Name field. Click Ad secret.
+
+![](<../.gitbook/assets/Untitled (2).png>)
+
+Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:      &#x20;
+
+Remove the # to manually run the action in GitHub actions. Indentation is very important in yaml so make sure the workflow\_dispatch starts at the same indent as schedule:
+
+Play around with the values and see what you can conjure up.
 
 ## Reference Example
 
