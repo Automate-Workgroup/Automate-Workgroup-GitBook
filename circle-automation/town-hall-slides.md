@@ -178,7 +178,7 @@ Funded by Open Source Training
 
 ## Sign-off
 
-Where it is in production and who signed it off
+Where it is in production:
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/blob/main/.github/workflows/slides.yml" %}
 Main Yaml file
@@ -191,3 +191,5 @@ Issue template file
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/projects/1" %}
 Project board where the issue resides
 {% endembed %}
+
+Signed off by:
