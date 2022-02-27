@@ -4,10 +4,6 @@ description: Town Hall Slides Automation
 
 # Town Hall Slides
 
-## GitHub Action
-
-Funded by Distributed Auditability
-
 ## Overview
 
 This GitHub action pulls data from an issue template markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
