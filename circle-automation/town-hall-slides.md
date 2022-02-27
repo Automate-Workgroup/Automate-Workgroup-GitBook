@@ -110,6 +110,8 @@ Play around with the values and see what you can conjure up.
 
 ## Code
 
+This is the complete yaml file. Copy and edit the fields as shown above.
+
 ```
 #
 # Townhall Slides, powered by imjohnbo/issue-bot
