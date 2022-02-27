@@ -10,11 +10,91 @@ Funded by Distributed Auditability
 
 ## Overview
 
+This GitHub action pulls data from an issue template markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
+
+The complete code for this GitHub action can be found at the bottom of this page. You'll have to edit the following parts to make it work for your repository and align with what you are trying to achieve.
+
+1. Below you can see an example of the issue template file. Note that the action won't work if the label field is empty. Also note the path this file is stored in.&#x20;
+
 ![Issue template](<../.gitbook/assets/Untitled (3).png>)
 
-Creating a GitHub action that pulls data from an issue template markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
+Below is where you edit the path that points to your issue template file. Notice that you start the path from ".github/..."
+
+```
+    - name: Get template
+      uses: imjohnbo/extract-issue-template-fields@v1
+      id: extract
+      with:   # below is the path to the template issue markdown file
+        path: .github/ISSUE_TEMPLATE/town_hall_slides.md # assignees, labels, and title defined in issue template header
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2\. Next you need to identify the project number. Go to your project board and look at the URL bar in your browser. The last digit is your project number. Also note the name of the column you want the issue to reside in.
 
 ![](<../.gitbook/assets/Untitled (2).png>)
+
+At the bottom of the yaml file you'll notice the fields where you can edit  the project number and column name.
+
+```
+          - [ ] Prepare Town Hall slides for Wednesday
+        project: 1  # The project-number from https://github.com/orgs/org/projects/project-number
+        column: In progress
+        pinned: false
+        close-previous: true
+        linked-comments: true
+```
+
+3\. The following fields that need editing is all the fields that has to do with time. When you want this issue to be created and what date you want displayed in the issue title. Below is the cron field. To find out how to edit this field to get the timeslot you need, use this [link](https://crontab.guru/#0\_0\_\*\_\*\_6).
+
+```
+  schedule:
+  # At 00:00 on Wednesday. – https://crontab.guru
+  - cron: 0 0 * * 3   # cron sets the time the workflow gets activated
+```
+
+Next up is the date you want displayed in your Issue title. Line 2 creates an env variable "DAY" to use later in your workflow. Note the '7 days'. That ads the number of days to todays date. So the result will be today +7 days. You can do some more reading on the  format here [https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3](https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3)
+
+```
+    - name: Issue date
+      run: echo "DAY=$(date -d '7 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV  # Create env variable "DAY" to use later in workflow
+```
+
+4\. Notice how the "DAY" env variable gets used and the outputs from the imjohnbo/extract-issue-template-fields@v1 action. The token $\{{ secrets.PAT \}} is a secret you have to make yourself. The built in GITHUB\_TOKEN is not strong enough so you need to create a persnal access token.
+
+```
+   with:
+        token: ${{ secrets.PAT }} # Built in GITHUB_TOKEN permissions are too restrictive, so a personal access token is used here
+        assignees: ${{ steps.extract.outputs.assignees }} # Extracts info from issue template markdown file
+        labels: ${{ steps.extract.outputs.labels }}
+        title: Town Hall Slides - ${{ env.DAY }}
+        body: |
+          ### Townhall slides - ${{ env.DAY }}
+```
+
+5\. To create a personal access token click on the profile button in the top right and go to settings.
+
+![](<../.gitbook/assets/Untitled (8).png>)
+
+Next click on the developer settings in the bottom left.
+
+![](<../.gitbook/assets/Untitled (5).png>)
+
+Click on Personal access tokens and then on Generate new token. Then choose permissions.
+
+![](<../.gitbook/assets/Untitled (7).png>)
+
+After you click generate token you will get to this page. Copy the token code. Click on the blue squares next to the code to copy.
+
+![](<../.gitbook/assets/Untitled (4).png>)
+
+Next up go to the repo settings.
+
+![](<../.gitbook/assets/Untitled (6).png>)
+
+Click on secrets.
+
+![](<../.gitbook/assets/Untitled (1).png>)
 
 ## Reference Example
 
@@ -50,17 +130,17 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # Generates and pins new town hall slides issue, closes previous, writes linking comments, adds to project number 1, column name "In progress"
-    - name: Todays date
-      run: echo "TODAY=$(date -d '7 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV  # Create env variable "TODAY" to use later in workflow
+    - name: Issue date
+      run: echo "DAY=$(date -d '7 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV  # Create env variable "DAY" to use later in workflow
     - name: New Slide issue
       uses: imjohnbo/issue-bot@v3
       with:
         token: ${{ secrets.PAT }} # Built in GITHUB_TOKEN permissions are too restrictive, so a personal access token is used here
         assignees: ${{ steps.extract.outputs.assignees }} # Extracts info from issue template markdown file
         labels: ${{ steps.extract.outputs.labels }}
-        title: Town Hall Slides - ${{ env.TODAY }}
+        title: Town Hall Slides - ${{ env.DAY }}
         body: |
-          ### Townhall slides - ${{ env.TODAY }}
+          ### Townhall slides - ${{ env.DAY }}
           
           * Previous Town Hall - https://github.com//Catalyst-Circle/Catalyst-Circle-Coordination/issues/{{ previousIssueNumber }}
           * CC Admin meeting - 
