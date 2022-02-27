@@ -179,3 +179,15 @@ Funded by Open Source Training
 ## Sign-off
 
 Where it is in production and who signed it off
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/blob/main/.github/workflows/slides.yml" %}
+Main Yaml file
+{% endembed %}
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/blob/main/.github/ISSUE_TEMPLATE/town_hall_slides.md" %}
+Issue template file
+{% endembed %}
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/projects/1" %}
+Project board where the issue resides
+{% endembed %}
