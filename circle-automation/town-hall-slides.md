@@ -171,11 +171,12 @@ Funded by Open Source Training
 
 ## Charging/Budget
 
-| Task | Hours | Charge |
-| ---- | ----- | ------ |
-|      |       |        |
-|      |       |        |
-|      |       |        |
+| Task                         | Hours | Charge |
+| ---------------------------- | ----: | ------ |
+| Development                  |     2 | 80     |
+| Testing                      |     4 | 160    |
+| Implementation in production |     1 | 40     |
+| Totals                       |     7 | 280    |
 
 ## Sign-off
 
