@@ -49,7 +49,7 @@ At the bottom of the yaml file you'll notice the fields where you can edit  the 
   - cron: 0 0 * * 3   # cron sets the time the workflow gets activated
 ```
 
-Next up is the date you want displayed in your Issue title. Line 2 creates an env variable "DAY" to use later in your workflow. Note the '7 days'. That ads the number of days to todays date. So the result will be today +7 days. You can do some more reading on the  format here [https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3](https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3)
+Next up is the date you want displayed in your Issue title. Line 2 creates an env variable "DAY" to use later in your workflow. Note that the '7 days' ads the number of days to todays date. So the result will be today +7 days. You can do some more reading on the  format here [https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3](https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3)
 
 ```
     - name: Issue date
