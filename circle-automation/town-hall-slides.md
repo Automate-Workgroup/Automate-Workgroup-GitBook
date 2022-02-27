@@ -56,7 +56,7 @@ Next up is the date you want displayed in your Issue title. Line 2 creates an en
       run: echo "DAY=$(date -d '7 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV  # Create env variable "DAY" to use later in workflow
 ```
 
-4\. Notice how the "DAY" env variable gets used and the outputs from the imjohnbo/extract-issue-template-fields@v1 action. The token $\{{ secrets.PAT \}} is a secret you have to make yourself. The built in GITHUB\_TOKEN is not strong enough so you need to create a persnal access token.
+4\. Notice below how the "DAY" env variable gets used and the outputs from the imjohnbo/extract-issue-template-fields@v1 action. The token $\{{ secrets.PAT \}} is a secret you have to make yourself. The built in GITHUB\_TOKEN is not strong enough so you need to create a personal access token.
 
 ```
    with:
@@ -80,7 +80,7 @@ Click on Personal access tokens and then click on Generate new token. You'll be 
 
 ![](<../.gitbook/assets/Untitled (7).png>)
 
-After you click generate token you will get to this page. Copy the token code. Click on the blue squares next to the code to copy.
+After you click generate token you will get to this page. Copy the token code. Click on the blue squares next to the token code to copy.
 
 ![](<../.gitbook/assets/Untitled (4).png>)
 
@@ -98,7 +98,7 @@ Click on New repository secret (top right), then on the next page paste the code
 
 Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:      &#x20;
 
-Remove the # to manually run the action in GitHub actions. Indentation is very important in yaml so make sure the workflow\_dispatch starts at the same indent as schedule:
+Remove the # to manually run the action in GitHub actions. Indentation is very important in yaml so make sure the workflow\_dispatch: starts at the same indent as schedule:
 
 Play around with the values and see what you can conjure up.
 
