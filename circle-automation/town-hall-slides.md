@@ -41,7 +41,7 @@ At the bottom of the yaml file you'll notice the fields where you can edit  the 
         linked-comments: true
 ```
 
-3\. The following fields that need editing is all the fields that has to do with time. When you want this issue to be created and what date you want displayed in the issue title. Below is the cron field. To find out how to edit this field to get the timeslot you need, use this [link](https://crontab.guru/#0\_0\_\*\_\*\_6).
+3\. The following fields that need editing is all the fields that has to do with time. When you want this issue to be created and what date you want displayed in the issue title. Below is the cron field, this determines when your GitHub action will run. To find out how to edit this field to get the timeslot you need, use this [link](https://crontab.guru/#0\_0\_\*\_\*\_6).
 
 ```
   schedule:
