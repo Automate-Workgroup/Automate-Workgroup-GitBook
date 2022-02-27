@@ -80,7 +80,7 @@ Next click on the developer settings in the bottom left.
 
 ![](<../.gitbook/assets/Untitled (5).png>)
 
-Click on Personal access tokens and then on Generate new token. Then choose permissions.
+Click on Personal access tokens and then click on Generate new token. You'll be taken to this page where you need to select scopes.
 
 ![](<../.gitbook/assets/Untitled (7).png>)
 
