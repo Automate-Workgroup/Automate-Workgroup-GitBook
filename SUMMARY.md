@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Distributed-Auditability](README.md)
+* [Training and automation](README.md)
 * [How this works](how-this-works.md)
 
 ## Treasury-automation
