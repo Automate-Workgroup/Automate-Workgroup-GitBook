@@ -20,6 +20,7 @@
 * [Overview](training/overview.md)
 * [How to set up a GitBook](training/how-to-set-up-a-gitbook.md)
 * [Circle Admin GitHub Training](training/circle-admin-github-training.md)
+* [Catalyst Circle Prioritized Problems](training/catalyst-circle-prioritized-problems.md)
 
 ## Proposal Reporting
 
