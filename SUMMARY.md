@@ -17,5 +17,9 @@
 
 ## Proposal Reporting
 
-* [F6  Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
-* [ F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
+* [F6 Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
+* [F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
+
+## Training
+
+* [Overview](training/overview.md)
