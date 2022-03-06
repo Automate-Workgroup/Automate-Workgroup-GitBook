@@ -1,11 +1,14 @@
 # Table of contents
 
 * [Training and automation](README.md)
-* [How this works](how-this-works.md)
+
+## Automation
+
+* [How this works](automation/how-this-works.md)
 
 ## Treasury-automation
 
-* [Page 1](treasury-automation/page-1.md)
+* [Treasury Action](treasury-automation/treasury-action.md)
 
 ## Circle-Automation
 
