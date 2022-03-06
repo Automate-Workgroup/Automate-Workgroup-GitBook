@@ -12,10 +12,7 @@
 * [Town Hall Slides](circle-automation/town-hall-slides.md)
 * [Circle KPIs](circle-automation/circle-kpis.md)
 
-## Fund 6 Reporting
+## Proposal Reporting
 
-* [Page 2](fund-6-reporting/page-2.md)
-
-***
-
-* [Page 3](page-3.md)
+* [F6  Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
+* [ F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
