@@ -15,12 +15,12 @@
 * [Town Hall Slides](circle-automation/town-hall-slides.md)
 * [Circle KPIs](circle-automation/circle-kpis.md)
 
-## Training
+## Open Source Training
 
-* [Overview](training/overview.md)
-* [How to set up a GitBook](training/how-to-set-up-a-gitbook.md)
-* [Circle Admin GitHub Training](training/circle-admin-github-training.md)
-* [Catalyst Circle Prioritized Problems](training/catalyst-circle-prioritized-problems.md)
+* [Overview](open-source-training/overview.md)
+* [How to set up a GitBook](open-source-training/how-to-set-up-a-gitbook.md)
+* [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
+* [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
 
 ## Proposal Reporting
 
