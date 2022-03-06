@@ -1,7 +1,7 @@
 ---
-description: Welcome to Distributed Auditability
+description: Welcome to Training & Automation
 ---
 
-# Distributed-Auditability
+# Training and automation
 
-Distributed-Auditability is funded by etc
+Training & Automation is funded by etc
