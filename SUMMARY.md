@@ -21,6 +21,7 @@
 * [How to set up a GitBook](open-source-training/how-to-set-up-a-gitbook.md)
 * [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
 * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
+* [How to build a Challenge Team GitBook](open-source-training/how-to-build-a-challenge-team-gitbook.md)
 
 ## Proposal Reporting
 
