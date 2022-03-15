@@ -169,12 +169,12 @@ Funded by Open Source Training
 
 ## Charging/Budget
 
-| Task                         | Hours | Charge |
-| ---------------------------- | ----: | ------ |
-| Development                  |     2 | 80     |
-| Testing                      |     4 | 160    |
-| Implementation in production |     1 | 40     |
-| Totals                       |     7 | 280    |
+| Task                         | Hours | Charge @ $55 per hour |
+| ---------------------------- | ----: | --------------------- |
+| Development                  |     2 | 110                   |
+| Testing                      |     4 | 220                   |
+| Implementation in production |     1 | 55                    |
+| Totals                       |     7 | 385                   |
 
 ## Sign-off
 
