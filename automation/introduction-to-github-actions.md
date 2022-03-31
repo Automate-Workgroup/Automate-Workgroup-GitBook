@@ -12,5 +12,14 @@ We will be covering the bare minimum to get you started. For a more in depth loo
 
 GitHub actions consists of 2 parts. Part 1 is written in JavaScript, we will not be editing this and this works in the background. Part 2 is the part written in Yaml. The Yaml is where we will be doing our editing.&#x20;
 
-GitHub actions gets triggered by specific events. There are more than 90 events that can trigger a GitHub action. It is also possible to let more than one event trigger your GitHub action.
+GitHub actions gets triggered by specific events. There are more than 90 events that can trigger a GitHub action. It is also possible to let more than one event trigger your GitHub action. For this introduction we will be using [this GitHub action](https://github.com/rjstone/discord-webhook-notify) that sends a Discord message whenever something happens to a GitHub Issue.
 
+### 2.  Creating your GitHub Action
+
+After you found the action you need on the Marketplace, you need to create the action Yaml file. You can start this by going to the root of your GitHub repo and creating a new file like so.
+
+![Click Add file and then Create new file](../.gitbook/assets/Gitbook.png)
+
+Next type the directory and name you want to save this file as. The directory for GitHub actions always needs to be "/.github/workflows/" like so...
+
+![Make sure you end your file name with .yml](<../.gitbook/assets/Gitbook (1).png>)
