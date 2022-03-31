@@ -5,6 +5,7 @@
 ## Automation
 
 * [How this works](automation/how-this-works.md)
+* [Introduction to GitHub Actions](automation/introduction-to-github-actions.md)
 
 ## Treasury-automation
 
