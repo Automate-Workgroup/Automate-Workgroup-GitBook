@@ -20,9 +20,9 @@ After you found the action you need on the Marketplace, you need to create the a
 
 ![Click Add file and then Create new file](../.gitbook/assets/Gitbook.png)
 
-Next type the directory and name you want to save this file as. The directory for GitHub actions always needs to be "/.github/workflows/" like so...
+Next type the following ".github/workflows/discord.yml" You'll notice as you type, every time you type a forward slash the colour of the text and the typefield changes. You can name your action anything you want, but the directory for GitHub actions always needs to be "/.github/workflows/" like so...
 
-![Be sure to end your filename with .yml](<../.gitbook/assets/Gitbook (1).png>)
+![Be sure to end your filename with .yml](<../.gitbook/assets/Gitbook (2).png>)
 
 Next copy the code from this codeblock into the body of your new yaml file.
 
