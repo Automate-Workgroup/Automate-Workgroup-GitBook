@@ -24,6 +24,7 @@
 * [Editing a GitBook](open-source-training/editing-a-gitbook.md)
 * [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
 * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
+* [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
 
 ## Proposal Reporting
 
