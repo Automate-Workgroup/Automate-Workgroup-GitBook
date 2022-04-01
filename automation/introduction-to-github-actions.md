@@ -27,11 +27,11 @@ Next type the following ".github/workflows/discord.yml" You'll notice as you typ
 Next copy the code from this codeblock into the body of your new yaml file.
 
 ```
-name: Export issues
-on:
+name: Export issues   
+on:                   
   issues:
     types: [opened, edited, reopened, closed, deleted, labeled, unlabeled]
-  #workflow_dispatch:
+ # workflow_dispatch:   
  # schedule:
     # run every 8 hours
   #  - cron:  '0 0,8,16 * * *'
@@ -56,4 +56,11 @@ jobs:
  
 ```
 
-### 3. Editing your Yml file
+### 3. Yml file breakdown
+
+* Name - Name of the action
+* On - List of triggers that trigger the action
+* Jobs - Jobs to run when triggered. More then one job can run per trigger and job can be dependent on other jobs to complete before they run.
+
+
+
