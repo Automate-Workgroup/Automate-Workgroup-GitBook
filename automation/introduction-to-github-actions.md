@@ -64,5 +64,5 @@ jobs:
 
 #### 3.1 Triggers
 
-
+For this action we will be using the "issues" trigger. Every time an issue is \[opened, edited, reopened, closed, deleted, labeled, unlabeled] the GitHub action will trigger. In the yml file there are other triggers as well, but they are inactive because of the # symbol. The # symbol turns anything after it on the line into a comment. Feel free to remove the # symbols to experiment with the other triggers.
 
