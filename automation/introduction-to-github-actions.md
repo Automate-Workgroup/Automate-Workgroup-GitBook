@@ -8,7 +8,7 @@ description: >-
 
 ### 1. Introduction
 
-We will be covering the bare minimum to get you started. For a more in depth look at how GitHub actions work, have a look [here.](https://docs.github.com/en/actions) We will be using GitHub actions that are available on the [Marketplace.](https://github.com/marketplace?category=\&query=\&type=actions\&verification=) This marketplace will be your go to when you need to automate something.&#x20;
+We will be covering the bare minimum to get you started. For a more in depth look at how GitHub actions work, have a look [**here.**](https://docs.github.com/en/actions) We will be using GitHub actions that are available on the [Marketplace.](https://github.com/marketplace?category=\&query=\&type=actions\&verification=) This marketplace will be your go to when you need to automate something.&#x20;
 
 GitHub actions consists of 2 parts. Part 1 is written in JavaScript, we will not be editing this and this works in the background. Part 2 is the part written in Yaml. The Yaml is where we will be doing our editing.&#x20;
 
@@ -64,7 +64,7 @@ jobs:
 
 #### 3.1 Triggers
 
-For this action we will be using the "issues" trigger. Every time an issue is \[opened, edited, reopened, closed, deleted, labeled, unlabeled] the GitHub action will trigger. In the yml file there are other triggers as well, but they are inactive because of the # symbol. The # symbol turns anything after it on the line into a comment. Feel free to remove the # symbols to experiment with the other triggers. The "schedule" trigger uses [cron](https://crontab.guru/#0\_0\_\*\_\*\_6) to set a specific time for the action to run. To test the cron, remove the # in front of "schedule" and "cron". To run the action manually you can use "workflow\_dispatch". This is how you run the action manually....
+For this action we will be using the "issues" trigger. Every time an issue is \[opened, edited, reopened, closed, deleted, labeled, unlabeled] the GitHub action will trigger. In the yml file there are other triggers as well, but they are inactive because of the # symbol. The # symbol turns anything after it on the line into a comment. Feel free to remove the # symbols to experiment with the other triggers. The "schedule" trigger uses [**cron**](https://crontab.guru/#0\_0\_\*\_\*\_6) to set a specific time for the action to run. To test the cron, remove the # in front of "schedule" and "cron". To run the action manually you can use "workflow\_dispatch". This is how you run the action manually....
 
 
 
