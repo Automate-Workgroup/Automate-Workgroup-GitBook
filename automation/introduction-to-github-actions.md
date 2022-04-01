@@ -60,7 +60,9 @@ jobs:
 
 * Name - Name of the action
 * On - List of triggers that trigger the action
-* Jobs - Jobs to run when triggered. More then one job can run per trigger and job can be dependent on other jobs to complete before they run.
+* Jobs - Jobs that run when action is triggered. More then one job can run per trigger and jobs can be dependent on other jobs to complete before they run.
+
+#### 3.1 Triggers
 
 
 
