@@ -68,33 +68,7 @@ Next up is the date you want displayed in your Issue title. Line 2 creates an en
           ### Townhall slides - ${{ env.DAY }}
 ```
 
-5\. To create a personal access token click on the profile button in the top right and go to settings.
-
-![](<../.gitbook/assets/Untitled (8).png>)
-
-Next click on the developer settings in the bottom left.
-
-![](<../.gitbook/assets/Untitled (5).png>)
-
-Click on Personal access tokens and then click on Generate new token. You'll be taken to this page where you need to select scopes.
-
-![](<../.gitbook/assets/Untitled (7).png>)
-
-After you click generate token you will get to this page. Copy the token code. Click on the blue squares next to the token code to copy.
-
-![](<../.gitbook/assets/Untitled (4).png>)
-
-Next up go to the repo settings.
-
-![](<../.gitbook/assets/Untitled (6).png>)
-
-Click on secrets and then on actions.
-
-![](<../.gitbook/assets/Untitled (3).png>)
-
-Click on New repository secret (top right), then on the next page paste the code you copied into the value field and type PAT into the Name field. Click Ad secret.
-
-![](<../.gitbook/assets/Untitled (2).png>)
+5\. You can find out how to create a personal access token <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](../automation/pat-token.md)<mark style="color:blue;">.</mark>
 
 Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:      &#x20;
 
