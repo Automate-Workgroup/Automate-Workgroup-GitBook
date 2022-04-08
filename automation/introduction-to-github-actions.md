@@ -78,4 +78,6 @@ You can run more than one job per action and some jobs can be set to only run af
 
 ![Change the values of the blue text under "with:" to experiment a bit](<../.gitbook/assets/Gitbook (4).png>)
 
-Under steps: you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify
+Under "steps:" you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify  Be sure to read the documentation in the repo as well and to look at the test.yml in the workflows folder.
+
+You can change the avatar of the discord message, the text in description, details, footer and text. For this example we are pulling data from the created issue that triggered the action. ex. "text: $\{{ github.event.issue.title \}}"&#x20;
