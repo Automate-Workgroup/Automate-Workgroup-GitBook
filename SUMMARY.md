@@ -5,8 +5,11 @@
 ## Automation
 
 * [How this works](automation/how-this-works.md)
-* [Introduction to GitHub Actions](automation/introduction-to-github-actions.md)
-* [How to create a PAT token (Personal Access Token)](automation/pat-token.md)
+
+## Introduction and Pat tokens
+
+* [Introduction to GitHub Actions](introduction-and-pat-tokens/introduction-to-github-actions.md)
+* [How to create a PAT token (Personal Access Token)](introduction-and-pat-tokens/pat-token.md)
 
 ## Treasury-automation
 

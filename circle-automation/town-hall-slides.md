@@ -68,7 +68,7 @@ Next up is the date you want displayed in your Issue title. Line 2 creates an en
           ### Townhall slides - ${{ env.DAY }}
 ```
 
-5\. You can find out how to create a personal access token <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](../automation/pat-token.md)<mark style="color:blue;">.</mark>
+5\. You can find out how to create a personal access token <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](../introduction-and-pat-tokens/pat-token.md)<mark style="color:blue;">.</mark>
 
 Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:      &#x20;
 
