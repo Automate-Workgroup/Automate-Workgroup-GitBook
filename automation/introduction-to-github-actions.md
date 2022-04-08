@@ -77,3 +77,5 @@ For this action we will be using the "issues" trigger. Every time an issue is \[
 You can run more than one job per action and some jobs can be set to only run after another job has completed. For this action we will only run one job.&#x20;
 
 ![Change the values of the blue text under "with:" to experiment a bit](<../.gitbook/assets/Gitbook (4).png>)
+
+Under steps: you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify
