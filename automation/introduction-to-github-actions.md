@@ -82,18 +82,38 @@ Under "steps:" you'll see "uses: rjstone/discord-webhook-notify@v1". You can acc
 
 You can change the avatar of the discord message, the text in description, details, footer and text. For this example we are pulling data from the created issue that triggered the action. ex. "text: $\{{ github.event.issue.title \}}"&#x20;
 
+#### 3.3 GitHub Action secret and Discord Webhook
+
 You will need to create a secret that stores your Discord Webhook. To find out how to create a secret, have a look at the last section that covers secret creation [<mark style="color:blue;">**here**</mark>](pat-token.md)<mark style="color:blue;">**.**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">Just skip past the PAT token section.</mark>&#x20;
 
 <mark style="color:blue;">To get your Discord Webhook code go to Server settings in Discord.</mark>
 
-![](<../.gitbook/assets/Gitbook (5).png>)
+![](<../.gitbook/assets/Gitbook (5) (1).png>)
 
 Then integrations and then View Webhooks.
 
-![](<../.gitbook/assets/Gitbook (6).png>)
+![](<../.gitbook/assets/Gitbook (6) (1).png>)
 
 &#x20;Next up click New Webhook and then Copy Webhook URL.
 
-![](<../.gitbook/assets/Gitbook (7).png>)
+![](<../.gitbook/assets/Gitbook (7) (1).png>)
 
 Go ahead and create a Github action secret and paste the Webhook URL in the secret.
+
+## 4. Testing the action
+
+Use workflow dispatch to test your Github action. Click on the issue name after you've run it.
+
+![](<../.gitbook/assets/Gitbook (7).png>)
+
+Next click here
+
+![](<../.gitbook/assets/Gitbook (6).png>)
+
+You can expand these fields to have a look at the different steps the action goes through.&#x20;
+
+![](<../.gitbook/assets/Gitbook (5).png>)
+
+You will notice when your action runs into an error it will leave a message that tells you at which point it ran into an error.&#x20;
+
+If you didn't receive any errors, there will be a message in the Discord channel that is connected to the webhook you chose. Go ahead and create a GitHub issue and see if the action triggers and what the message looks like in Discord.
