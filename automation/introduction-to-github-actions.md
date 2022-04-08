@@ -70,7 +70,10 @@ For this action we will be using the "issues" trigger. Every time an issue is \[
 
 ![Notice that step 2 is the name of the action](<../.gitbook/assets/Gitbook (3).png>)
 
-![](<../.gitbook/assets/Gitbook (4).png>)
+![The name of the action](<../.gitbook/assets/Gitbook (4) (1).png>)
 
 #### 3.2 Jobs
 
+You can run more than one job per action and some jobs can be set to only run after another job has completed. For this action we will only run one job.&#x20;
+
+![Change the values of the blue text under "with:" to experiment a bit](<../.gitbook/assets/Gitbook (4).png>)
