@@ -78,4 +78,22 @@ You can run more than one job per action and some jobs can be set to only run af
 
 ![Change the values of the blue text under "with:" to experiment a bit](<../.gitbook/assets/Gitbook (4).png>)
 
-Under steps: you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify
+Under "steps:" you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify  Be sure to read the documentation in the repo as well and to look at the test.yml in the workflows folder.
+
+You can change the avatar of the discord message, the text in description, details, footer and text. For this example we are pulling data from the created issue that triggered the action. ex. "text: $\{{ github.event.issue.title \}}"&#x20;
+
+You will need to create a secret that stores your Discord Webhook. To find out how to create a secret, have a look at the last section that covers secret creation [<mark style="color:blue;">**here**</mark>](pat-token.md)<mark style="color:blue;">**.**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">Just skip past the PAT token section.</mark>&#x20;
+
+<mark style="color:blue;">To get your Discord Webhook code go to Server settings in Discord.</mark>
+
+![](<../.gitbook/assets/Gitbook (5).png>)
+
+Then integrations and then View Webhooks.
+
+![](<../.gitbook/assets/Gitbook (6).png>)
+
+&#x20;Next up click New Webhook and then Copy Webhook URL.
+
+![](<../.gitbook/assets/Gitbook (7).png>)
+
+Go ahead and create a Github action secret and paste the Webhook URL in the secret.
