@@ -175,12 +175,12 @@ About
 
 ## Charging / Budget (Example)
 
-| Task                         | Hours | Charge    |
-| ---------------------------- | ----- | --------- |
-| Development                  | 4     | $ 160     |
-| Testing                      | 2     | $ 80      |
-| Implementation in production | 1     | $ 40      |
-| **Totals**                   | **7** | **$ 280** |
+| Task                         | Hours | Charge @ $55 an hour |
+| ---------------------------- | ----- | -------------------- |
+| Development                  | 4     | $ 220                |
+| Testing                      | 2     | $ 110                |
+| Implementation in production | 1     | $ 55                 |
+| **Totals**                   | **7** | **$ 385**            |
 
 
 
