@@ -189,3 +189,7 @@ About
 ## Sign-Off
 
 Where it is in production and who signed it off
+
+{% embed url="https://cc-treasury.github.io/CircleKPIs" %}
+Circle KPIs
+{% endembed %}
