@@ -8,11 +8,7 @@ description: Circle KPI automation
 
 ![](<../.gitbook/assets/Untitled (1) (1) (1).png>)
 
-## Reference example:&#x20;
 
-{% embed url="https://cc-treasury.github.io/CircleKPIs" %}
-
-{% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
 
 ## Code
 
@@ -196,4 +192,12 @@ Where it is in production and who signed it off
 
 {% embed url="https://cc-treasury.github.io/CircleKPIs" %}
 Circle KPIs
+{% endembed %}
+
+{% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
+Yml file of GitHub action
+{% endembed %}
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues" %}
+GitHub Issues
 {% endembed %}
