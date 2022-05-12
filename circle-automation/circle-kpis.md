@@ -171,7 +171,11 @@ About
 
 ```
 
+## Training
 
+Funded by Open Source Training
+
+[https://cardano.ideascale.com/c/idea/368678](https://cardano.ideascale.com/c/idea/368678)
 
 ## Charging / Budget (Example)
 
