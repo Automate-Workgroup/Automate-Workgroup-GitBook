@@ -10,13 +10,13 @@ This GitHub action tracks the status of issues on a Project Board. It produces a
 
 ![](<../.gitbook/assets/Untitled (1) (1) (1).png>)
 
-Be sure to ad workflow dispatch so you can test your action. For this action you would also most likely set up a cron schedule. After checking out you repo the action looks for a branch called "gh\_pages". If it doesn't exist be sure to create it. Creating this branch will publish the files in this branch to GitHub pages by default. This GitHub action produces and updates the necessary files in this branch every time it runs.
+Be sure to ad workflow dispatch so you can test your action. For this action you would also most likely set up a cron schedule. There are four actions happening here. First your repo gets checked, second the gh\_pages branch gets checked and a working directory gets set, third the dashboard gets generated and fourth the dashboard gets published. After checking out your repo the action looks for a branch called "gh\_pages". If it doesn't exist be sure to create it. Files in the  This GitHub action produces and updates the necessary files in this branch every time it runs.
 
 ![](../.gitbook/assets/image\_2022-05-12\_155200551.png)
 
-Next up is generating the dashboard. In the config section you can set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. This dashboard was created to take a screenshot at the end of each month and report on the KPIs of Catalyst Circle, so in the issue\_query field you will notice for the date we said "-30 days". After the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" for more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
+Next up is generating the dashboard. There are 3  In the config section you can set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. This dashboard was created to take a screenshot at the end of each month and report on the KPIs of Catalyst Circle, so in the issue\_query field you will notice for the date we said "-30 days". After the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" for more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
 
-![](../.gitbook/assets/image\_2022-05-12\_160056700.png)
+![Config and widgets](../.gitbook/assets/image\_2022-05-13\_075243514.png)
 
 ## Code
 
