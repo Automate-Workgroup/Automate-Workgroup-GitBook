@@ -14,7 +14,7 @@ Be sure to ad workflow dispatch so you can test your action. For this action you
 
 ![](../.gitbook/assets/image\_2022-05-12\_155200551.png)
 
-Next up is generating the dashboard.  There are 2 parts here. The config and the widgets. In the config section you can set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. It starts with a title, description and then the type of widget. Each widget has its own "key value" pairs that you can change to display the data you want. The issue\_query field is used to pull the data from the issues in the repo. In the issue\_query field after the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" and "created:>\{{ date("-30 days") \}}" This is to pull all issues that were created in the last 30 days. For more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
+Next up is generating the dashboard.  There are 2 parts here. The config and the widgets. In the config section you set the output path and filename of the HTML file that gets generated. You can also set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. It starts with a title, description and then the type of widget. Each widget has its own "key value" pairs that you can change to display the data you want. The issue\_query field is used to pull the data from the issues in the repo. In the issue\_query field after the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" and "created:>\{{ date("-30 days") \}}" This is to pull all issues that were created in the last 30 days. For more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
 
 ![Config and widgets](../.gitbook/assets/image\_2022-05-13\_075243514.png)
 
@@ -29,6 +29,8 @@ color: '\{{ userdata.color\_func(value) \}}'  &#x20;
 The github.token authenticates the widgets to have access to the issues in the repo. The data gets generated and pushed to the gh\_pages branch into the "out" working directory that we mentioned in the top section where we checked out the gh\_pages section the first time. I haven't used all the features of the GitHub action. There is also table widgets and string widgets and a few other features. Again, be sure to check out the official documentation [here.](https://ethomson.github.io/issue-dashboard/documentation/)
 
 ![Publish Dashboard](../.gitbook/assets/image\_2022-05-13\_083554921.png)
+
+Below is the complete yml file for the GitHub action.
 
 ## Code
 
