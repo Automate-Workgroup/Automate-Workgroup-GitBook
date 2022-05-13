@@ -225,3 +225,7 @@ Yml file of GitHub action
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues" %}
 GitHub Issues
 {% endembed %}
+
+{% embed url="https://github.com/CC-Treasury/CircleKPIs/tree/gh-pages" %}
+gh\_pages branch
+{% endembed %}
