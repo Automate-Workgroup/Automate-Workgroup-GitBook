@@ -14,7 +14,7 @@ Be sure to ad workflow dispatch so you can test your action. For this action you
 
 ![](../.gitbook/assets/image\_2022-05-12\_155200551.png)
 
-Next up is generating the dashboard. In the config section you can set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. This dashboard was created to take a screenshot at the end of each month so in the issue\_query field you will notice that for the date we said "-30 days". After the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" for more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
+Next up is generating the dashboard. In the config section you can set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. This dashboard was created to take a screenshot at the end of each month and report on the KPIs of Catalyst Circle, so in the issue\_query field you will notice for the date we said "-30 days". After the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" for more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
 
 ![](../.gitbook/assets/image\_2022-05-12\_160056700.png)
 
