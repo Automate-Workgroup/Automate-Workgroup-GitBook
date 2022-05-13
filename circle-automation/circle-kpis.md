@@ -6,7 +6,7 @@ description: Circle KPI automation
 
 ## Overview
 
-This GitHub action tracks the status of issues on a Project Board. It produces and updates the necessary files in your gh\_pages branch to create a dashboard that can be customized in the yml file as well as the css file if you want to change the style of the dashboard. The documentation on this GitHub action can be found [here](https://ethomson.github.io/issue-dashboard/documentation/) if you want to dig a little deeper. You'll find that this dashboard is very customizable. You will need to copy the dashboard.js and dashboard.css files from [this directory](https://github.com/ethomson/issue-dashboard/tree/gh-pages/examples) into the gh\_pages branch where this action will publish to.
+This GitHub action tracks the status of issues on a Project Board. It produces and updates the necessary files in your gh\_pages branch to create a dashboard that can be customized in the yml file as well as the css file if you want to change the style of the dashboard. The documentation on this GitHub action can be found [here](https://ethomson.github.io/issue-dashboard/documentation/) if you want to dig a little deeper. You'll find that this dashboard is very customizable. You need to create a gh\_pages branch in your repo. You will need to copy the dashboard.js and dashboard.css files from [this directory](https://github.com/ethomson/issue-dashboard/tree/gh-pages/examples) into the gh\_pages branch where this action will publish to.
 
 ![Example Dashboard](<../.gitbook/assets/Untitled (1) (1) (1).png>)
 
