@@ -33,6 +33,7 @@
 ## Proposal Reporting
 
 * [F8 Automate, Educate, Communicate](proposal-reporting/f8-automate-educate-communicate.md)
+* [F8 Automate - OnBoarding](proposal-reporting/f8-automate-onboarding.md)
 * [F6 Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
 * [F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
 * [Meetings](proposal-reporting/meetings.md)
