@@ -148,7 +148,8 @@ Funded by Open Source Training
 | Development                  |     2 | 110                   |
 | Testing                      |     4 | 220                   |
 | Implementation in production |     1 | 55                    |
-| Totals                       |     7 | 385                   |
+| Documentation                |     2 | 110                   |
+| Totals                       |     9 | 495                   |
 
 ## Sign-off
 
