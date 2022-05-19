@@ -19,6 +19,7 @@
 
 * [Town Hall Slides](circle-automation/town-hall-slides.md)
 * [Circle KPIs](circle-automation/circle-kpis.md)
+* [API Connector](circle-automation/api-connector.md)
 
 ## Open Source Training
 
