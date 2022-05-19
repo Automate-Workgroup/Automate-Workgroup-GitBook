@@ -4,6 +4,16 @@ description: Import GitHub Data to Google Sheets
 
 # API Connector
 
+## Circle Action Items
+
+### Google Sheet
+
+[Link](https://docs.google.com/spreadsheets/d/149kMzbkM2Hkqs1EUH41rfaOnJrJSTvF5Zj8O-N\_Pafs/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/spreadsheets/d/149kMzbkM2Hkqs1EUH41rfaOnJrJSTvF5Zj8O-N_Pafs/edit?usp=sharing" %}
+
+##
+
 ## Import GitHub Data to Google Sheets
 
 In this guide, we’ll walk through how to pull data from the GitHub API directly into Google Sheets, using the [API Connector](https://mixedanalytics.com/api-connector/) add-on for Google Sheets. We’ll first handle authentication, and then set up a request to pull in code repository details from GitHub to your spreadsheet.
