@@ -6,6 +6,14 @@ description: Import GitHub Data to Google Sheets
 
 ## Circle Action Items
 
+Track Catalyst Circle Action Items on a [GitHub Board](https://github.com/orgs/Catalyst-Circle/projects/4/views/29)&#x20;
+
+Export open issues to a Google Sheet
+
+{% hint style="warning" %}
+Current issue with refreshing API connection
+{% endhint %}
+
 ### Google Sheet
 
 [Link](https://docs.google.com/spreadsheets/d/149kMzbkM2Hkqs1EUH41rfaOnJrJSTvF5Zj8O-N\_Pafs/edit?usp=sharing)
