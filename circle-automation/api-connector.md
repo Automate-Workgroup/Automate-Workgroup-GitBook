@@ -12,7 +12,9 @@ description: Import GitHub Data to Google Sheets
 
 {% embed url="https://docs.google.com/spreadsheets/d/149kMzbkM2Hkqs1EUH41rfaOnJrJSTvF5Zj8O-N_Pafs/edit?usp=sharing" %}
 
-##
+### Circle Admin Standup - Circle Action Items
+
+{% embed url="https://github.com/orgs/Catalyst-Circle/projects/4/views/29" %}
 
 ## Import GitHub Data to Google Sheets
 
