@@ -204,7 +204,8 @@ Funded by Open Source Training
 | Development                  | 4     | $ 220                |
 | Testing                      | 2     | $ 110                |
 | Implementation in production | 1     | $ 55                 |
-| **Totals**                   | **7** | **$ 385**            |
+| Documentation                | 2     | 110                  |
+| **Totals**                   | **7** | **$ 495**            |
 
 
 
