@@ -18,7 +18,7 @@ GitHub actions gets triggered by specific events. There are more than 90 events 
 
 After you found the action you need on the Marketplace, you need to create the action Yaml file. You can start this by going to the root of your GitHub repo and creating a new file like so.
 
-![Click Add file and then Create new file](../.gitbook/assets/Gitbook.png)
+![Click Add file and then Create new file](<../.gitbook/assets/Gitbook (1).png>)
 
 Next type the following ".github/workflows/discord.yml" You'll notice as you type, every time you type a forward slash the colour of the text and the typefield changes. You can name your action anything you want, but the directory for GitHub actions always needs to be "/.github/workflows/" like so...
 
@@ -92,7 +92,7 @@ You will need to create a secret that stores your Discord Webhook. To find out h
 
 Then integrations and then View Webhooks.
 
-![](<../.gitbook/assets/Gitbook (6) (1).png>)
+![](<../.gitbook/assets/Gitbook (6) (1) (1).png>)
 
 &#x20;Next up click New Webhook and then Copy Webhook URL.
 
@@ -108,7 +108,7 @@ Use workflow dispatch to test your Github action. Click on the issue name after 
 
 Next click here
 
-![](<../.gitbook/assets/Gitbook (6).png>)
+![](<../.gitbook/assets/Gitbook (6) (1).png>)
 
 You can expand these fields to have a look at the different steps the action goes through.&#x20;
 

@@ -14,12 +14,22 @@ Look at the already documented GitHub Actions. Follow the same pattern. Take scr
 
 What you need to document for a GitHub action that is chargeable
 
-Start from the top of the yml file and work your way down. Explain the order of the jobs and how they will execute. Indicate small snippets of code as you explain every step. Provide links to other resources where applicable. Explain which variables or values can be changed and which are important to keep the same. At the end of the documentation provide the whole yml file's code as an example.
+Start from the top of the yml file and work your way down. Explain the order of the jobs and how they will execute. Indicate small snippets of code as you explain every step. Provide links to other resources where applicable. Explain which variables or values can be changed and which are important to keep the same. At the end of the documentation provide the whole yml file's code as an example. Also include links of where you have used this GitHub action.&#x20;
 
 ## Charging
 
 What you have charged for this GitHub action
 
+Include the table below in your documentation and also send an invoice.
+
+![Example](<../.gitbook/assets/Gitbook (6).png>)
+
+
+
 ## Sign Off
 
 Who signs this action off into production
+
+If the action is adopted and used somewhere, we will share the links here. Or we will share the links the creator provided of examples where they are using the action.
+
+This action gets reviewed and signed off by Reviewer and the creator of the GitHub Action gets paid.&#x20;

@@ -28,7 +28,7 @@ Below is where you edit the path that points to your issue template file. Notice
 
 2\. Next you need to identify the project number. Go to your project board and look at the URL bar in your browser. The last digit is your project number. Also note the name of the column you want the issue to reside in.
 
-![](<../.gitbook/assets/Untitled (2) (1).png>)
+![](<../.gitbook/assets/Untitled (1) (1).png>)
 
 At the bottom of the yaml file you'll notice the fields where you can edit  the project number and column name.
 
