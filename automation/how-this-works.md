@@ -1,5 +1,9 @@
 # How this works
 
+{% hint style="info" %}
+[How this works - content issue](https://github.com/Catalyst-Auditing/Training-and-Automation-Coordination/issues/38)
+{% endhint %}
+
 ## Overview
 
 Catalyst Training and Automation seeks automations that helps with project management. Some of these automations can be build with GitHub actions. If someone in the community has an action that falls within this scope or is on the "wish list" (Still need to make wish list public) then they can create documentation on how to implement the GitHub action and get incentivized by Catalyst Training and Automation.&#x20;
