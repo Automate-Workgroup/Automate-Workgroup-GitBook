@@ -32,7 +32,27 @@ Manage a project using GitBook
 [how-to-build-a-challenge-team-gitbook.md](how-to-build-a-challenge-team-gitbook.md)
 {% endcontent-ref %}
 
+## Editing a GitBook
 
+A demonstration of GitBook editing features&#x20;
 
+{% content-ref url="editing-a-gitbook.md" %}
+[editing-a-gitbook.md](editing-a-gitbook.md)
+{% endcontent-ref %}
 
+## Circle Admin GitHub Training
+
+Using a GitHub Project Board
+
+{% content-ref url="circle-admin-github-training.md" %}
+[circle-admin-github-training.md](circle-admin-github-training.md)
+{% endcontent-ref %}
+
+## Catalyst Circle Prioritized Problems
+
+Description
+
+{% content-ref url="catalyst-circle-prioritized-problems.md" %}
+[catalyst-circle-prioritized-problems.md](catalyst-circle-prioritized-problems.md)
+{% endcontent-ref %}
 
