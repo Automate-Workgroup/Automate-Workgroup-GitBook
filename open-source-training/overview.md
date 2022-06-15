@@ -16,4 +16,23 @@ Some preliminary materials -
 
 
 
-&#x20;
+## &#x20;How to set up a GitBook
+
+Short video on connecting to GitHub
+
+{% content-ref url="how-to-set-up-a-gitbook.md" %}
+[how-to-set-up-a-gitbook.md](how-to-set-up-a-gitbook.md)
+{% endcontent-ref %}
+
+## How to build a Challenge Team GitBook
+
+Manage a project using GitBook
+
+{% content-ref url="how-to-build-a-challenge-team-gitbook.md" %}
+[how-to-build-a-challenge-team-gitbook.md](how-to-build-a-challenge-team-gitbook.md)
+{% endcontent-ref %}
+
+
+
+
+
