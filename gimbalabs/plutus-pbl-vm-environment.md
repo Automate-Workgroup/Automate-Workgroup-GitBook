@@ -10,8 +10,7 @@ Test by Stephen
 
 ## Overview
 
-This documentation describes the setup of a baseline development environment for Plutus Project Based Learning version 2.
+This documentation describes the setup of a baseline Virtual Machine development environment for Plutus Project Based Learning version 2.
 
 
 
-Plutus Project Based Learning Virtual Machine Development environment
