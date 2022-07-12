@@ -24,6 +24,9 @@ Tested on AMD Ryzen 7 5700U Eight-Core, 16 GB RAM, 256 GB SSD, Windows 11
 
 ## VirtualBox installation
 
+Download and install the latest release
+
+{% embed url="https://www.virtualbox.org/" %}
 
 
-![](https://lh4.googleusercontent.com/xgzk8o4yvYodGugd\_vrp7UoHzNUKMTVDzFcbLO3Qmx4hCEu8sgCpVRum7tMHRVuuZDhUlMKdKL4biwTUDPkJ9uirG4z4GECRd6W7pmUjlpu7My\_inln3Nf3ihkvAtzDstMFFg5IM9LVA6Oo7IrE)
+
