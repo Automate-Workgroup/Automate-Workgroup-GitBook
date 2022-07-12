@@ -58,4 +58,4 @@ Check architecture in terminal&#x20;
 
 Download .deb and install package from [https://linuxhint.com/install-visual-studio-code-linux-mint/](https://linuxhint.com/install-visual-studio-code-linux-mint/)
 
-Visual Studio Code installed successfully
+* [x] Visual Studio Code installed successfully
