@@ -118,7 +118,7 @@ nix-env --version
 nix-env (Nix) 2.9.2
 ```
 
-nix-env (Nix) 2.9.2 installed
+* [x] nix-env (Nix) 2.9.2 installed
 
-NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
+* [x] NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
 
