@@ -40,4 +40,4 @@ Accept file associations and creating shortcuts.
 
 ![](<../.gitbook/assets/Screenshot 2022-07-12 142051.png>)
 
-Installed with no issues - Windows 11 Stephen W
+- [] Installed with no issues - Windows 11 Stephen W
