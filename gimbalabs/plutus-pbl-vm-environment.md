@@ -24,6 +24,10 @@ Tested on AMD Ryzen 7 5700U Eight-Core, 16 GB RAM, 256 GB SSD, Windows 11
 
 ## VirtualBox installation
 
+{% hint style="info" %}
+**Oracle VM VirtualBox** supports the creation and management of guest virtual machines running Windows and Linux. Open Source software.
+{% endhint %}
+
 Download and install the latest release
 
 {% embed url="https://www.virtualbox.org/" %}
