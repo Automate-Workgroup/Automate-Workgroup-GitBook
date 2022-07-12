@@ -67,3 +67,16 @@ Check architecture in terminal
 Download .deb and install package from [https://linuxhint.com/install-visual-studio-code-linux-mint/](https://linuxhint.com/install-visual-studio-code-linux-mint/)
 
 * [x] Visual Studio Code installed successfully
+
+## NIX <a href="#docs-internal-guid-edaa4226-7fff-a526-70ff-686007764b89" id="docs-internal-guid-edaa4226-7fff-a526-70ff-686007764b89"></a>
+
+Keep in mind this will download around 15Gb from IOG. (when caches are used later)
+
+We will take the single-user option.
+
+\
+
+
+* NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
+* cat \~/.config/nix/nix.conf to confirm IOG's caches added to Nix&#x20;
+* nix-env (Nix) 2.9.2 installed
