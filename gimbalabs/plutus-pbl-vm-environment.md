@@ -74,7 +74,11 @@ Download .deb and install package from [https://linuxhint.com/install-visual-stu
 [Nix ](https://nixos.org/)is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 {% endhint %}
 
-Keep in mind this will download around 15Gb from IOG. (when caches are used later)
+Follow the instructions for installing NIX in the link below
+
+{% embed url="https://plutus-community.readthedocs.io/en/latest/#Environment/Build/Ubuntu/#_top" %}
+
+Keep in mind that the x  will download around 15Gb from IOG. (when caches are used later)
 
 We will take the single-user option.
 
