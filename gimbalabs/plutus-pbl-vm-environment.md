@@ -35,3 +35,5 @@ Download and install the latest release
 {% hint style="info" %}
 Accept file associations and creating shortcuts.
 {% endhint %}
+
+![](<../.gitbook/assets/Screenshot 2022-07-12 140820.png>)
