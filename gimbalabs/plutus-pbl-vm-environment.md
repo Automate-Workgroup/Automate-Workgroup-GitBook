@@ -42,15 +42,19 @@ Accept file associations and creating shortcuts.
 
 * [x] Installed with no issues - Windows 11 Stephen W
 
-## Visual Studio Code
+## V**isual Studio Code**
+
+{% hint style="info" %}
+**Visual Studio Code** is a streamlined code editor with support for development operations like debugging, task running, and version control.
+{% endhint %}
 
 Download Visual Studio Code - Mac, Linux, Windows
 
 {% embed url="https://code.visualstudio.com/download" %}
 
-For Linux Mint = .deb 64&#x20;
+For Linux Mint = .deb 64
 
-Check architecture in terminal&#x20;
+Check architecture in terminal
 
 ```
 - dpkg --print-architecture
