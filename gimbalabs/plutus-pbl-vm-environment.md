@@ -28,5 +28,5 @@ Download and install the latest release
 
 {% embed url="https://www.virtualbox.org/" %}
 
-
+![](<../.gitbook/assets/Screenshot 2022-07-12 140204.png>)
 
