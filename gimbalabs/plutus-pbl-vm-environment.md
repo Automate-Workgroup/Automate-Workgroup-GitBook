@@ -40,4 +40,24 @@ Accept file associations and creating shortcuts.
 
 ![](<../.gitbook/assets/Screenshot 2022-07-12 142051.png>)
 
-- [x]  Installed with no issues - Windows 11 Stephen W
+* [x] Installed with no issues - Windows 11 Stephen W
+
+## Visual Studio Code
+
+Download Visual Studio Code - Mac, Linux, Windows
+
+{% embed url="https://code.visualstudio.com/download" %}
+
+For Linux Mint = .deb 64&#x20;
+
+Check architecture in terminal&#x20;
+
+```
+- dpkg --print-architecture
+```
+
+\- dpkg --print-architecture
+
+Download .deb and install package ([https://linuxhint.com/install-visual-studio-code-linux-mint/](https://linuxhint.com/install-visual-studio-code-linux-mint/))
+
+Visual Studio Code installed successfully
