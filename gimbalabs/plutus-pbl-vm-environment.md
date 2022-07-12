@@ -56,8 +56,6 @@ Check architecture in terminal&#x20;
 - dpkg --print-architecture
 ```
 
-\- dpkg --print-architecture
-
-Download .deb and install package ([https://linuxhint.com/install-visual-studio-code-linux-mint/](https://linuxhint.com/install-visual-studio-code-linux-mint/))
+Download .deb and install package from [https://linuxhint.com/install-visual-studio-code-linux-mint/](https://linuxhint.com/install-visual-studio-code-linux-mint/)
 
 Visual Studio Code installed successfully
