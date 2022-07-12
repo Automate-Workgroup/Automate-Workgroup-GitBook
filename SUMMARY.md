@@ -41,3 +41,7 @@
 * [F6 Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
 * [F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
 * [Meetings](proposal-reporting/meetings.md)
+
+## gimbalabs
+
+* [Plutus PBL](gimbalabs/plutus-pbl.md)
