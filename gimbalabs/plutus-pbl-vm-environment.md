@@ -70,6 +70,10 @@ Download .deb and install package from [https://linuxhint.com/install-visual-stu
 
 ## NIX <a href="#docs-internal-guid-edaa4226-7fff-a526-70ff-686007764b89" id="docs-internal-guid-edaa4226-7fff-a526-70ff-686007764b89"></a>
 
+{% hint style="info" %}
+[Nix ](https://nixos.org/)is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
+{% endhint %}
+
 Keep in mind this will download around 15Gb from IOG. (when caches are used later)
 
 We will take the single-user option.
