@@ -76,11 +76,11 @@ Download .deb and install package from [https://linuxhint.com/install-visual-stu
 
 Follow the instructions for installing Nix and setting up cache in the link below
 
+{% embed url="https://plutus-community.readthedocs.io/en/latest/#Environment/Build/Ubuntu/#_top" %}
+
 {% hint style="info" %}
 Adding IOG's caches to Nix speeds up development significantly by using their build artifacts. This is very important and means the difference between 3+ hours and less than 10 minutes!
 {% endhint %}
-
-{% embed url="https://plutus-community.readthedocs.io/en/latest/#Environment/Build/Ubuntu/#_top" %}
 
 {% hint style="info" %}
 Keep in mind that the cache will download around 15Gb from IOG.&#x20;
@@ -102,10 +102,23 @@ echo 'substituters = https://hydra.iohk.io https://iohk.cachix.org https://cache
 echo 'trusted-public-keys = hydra.iohk.io:f/Ea+s+dFdN+3Y/G+FDgSq+a5NEWhJGzdjvKNGv0/EQ= iohk.cachix.org-1:DpRUyj7h7V830dp/i6Nti+NEO2/nhblbov/8MW7Rqoo= cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=' >> ~/.config/nix/nix.conf
 ```
 
+Confirm IOG's caches added to Nix&#x20;
 
+```
+cat ~/.config/nix/nix.conf
+```
 
+Check version
 
+```
+nix-env --version
+```
 
-* NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
-* cat \~/.config/nix/nix.conf to confirm IOG's caches added to Nix&#x20;
-* nix-env (Nix) 2.9.2 installed
+```
+nix-env (Nix) 2.9.2
+```
+
+nix-env (Nix) 2.9.2 installed
+
+NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
+
