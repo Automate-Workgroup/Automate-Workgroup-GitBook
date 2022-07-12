@@ -37,3 +37,7 @@ Accept file associations and creating shortcuts.
 {% endhint %}
 
 ![](<../.gitbook/assets/Screenshot 2022-07-12 140820.png>)
+
+![](<../.gitbook/assets/Screenshot 2022-07-12 142051.png>)
+
+Installed with no issues - Windows 11 Stephen W
