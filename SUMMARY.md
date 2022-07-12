@@ -44,4 +44,4 @@
 
 ## gimbalabs
 
-* [Plutus PBL](gimbalabs/plutus-pbl.md)
+* [Plutus PBL VM environment](gimbalabs/plutus-pbl-vm-environment.md)
