@@ -90,7 +90,16 @@ Set the environment in this shell (or logout/login will achieve this)
 . /home/osboxes/.nix-profile/etc/profile.d/nix.sh
 ```
 
-\
+Add IOG's caches to Nix
+
+```
+mkdir ~/.config/nix
+echo 'substituters = https://hydra.iohk.io https://iohk.cachix.org https://cache.nixos.org/' >> ~/.config/nix/nix.conf
+echo 'trusted-public-keys = hydra.iohk.io:f/Ea+s+dFdN+3Y/G+FDgSq+a5NEWhJGzdjvKNGv0/EQ= iohk.cachix.org-1:DpRUyj7h7V830dp/i6Nti+NEO2/nhblbov/8MW7Rqoo= cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=' >> ~/.config/nix/nix.conf
+```
+
+
+
 
 
 * NIX download - 18:29 UTC Finished 18:30 UTC&#x20;
