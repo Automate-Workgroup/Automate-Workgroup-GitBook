@@ -76,6 +76,10 @@ Download .deb and install package from [https://linuxhint.com/install-visual-stu
 
 Follow the instructions for installing Nix and setting up cache in the link below
 
+{% hint style="info" %}
+Adding IOG's caches to Nix speeds up development significantly by using their build artifacts. This is very important and means the difference between 3+ hours and less than 10 minutes!
+{% endhint %}
+
 {% embed url="https://plutus-community.readthedocs.io/en/latest/#Environment/Build/Ubuntu/#_top" %}
 
 {% hint style="info" %}
