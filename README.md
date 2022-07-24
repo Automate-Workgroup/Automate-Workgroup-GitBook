@@ -4,7 +4,9 @@ description: Welcome to Training & Automation
 
 # Training and automation
 
-## Welcome to the QADAO Training & Automation&#x20;
+## Welcome to the Training & Automation
+
+#### A joint project between Treasury Guild & QADAO&#x20;
 
 ![](<.gitbook/assets/2022-03-08 (4).png>)
 
