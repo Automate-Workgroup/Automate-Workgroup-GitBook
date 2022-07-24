@@ -51,3 +51,7 @@ This could be documentation, photo or any other measurable way you feel demonstr
 Submitted files
 
 {% embed url="https://docs.google.com/document/d/1-NH9ecs22aQHQ_BnU7enUwwKmR5DhtoSb7SJCGR4oXU/edit?usp=sharing" %}
+
+### Is there anything else you would like to share about your project? \*
+
+{% embed url="https://quality-assurance-dao.gitbook.io/training-and-automation/" %}
