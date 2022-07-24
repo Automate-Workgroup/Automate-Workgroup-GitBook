@@ -30,3 +30,10 @@ Still in progress
 
 Yes
 
+### When is your project scheduled to complete? (This question is about understanding when you will launch/implement the solution you have developed) \*
+
+&#x20;3\. In the next 6 months
+
+### Do you plan to launch a token? (optional)
+
+No
