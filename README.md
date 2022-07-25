@@ -10,6 +10,8 @@ description: Welcome to Training & Automation
 
 ## F8 Automate, Educate, Communicate
 
+[https://cardano.ideascale.com/c/idea/398131](https://cardano.ideascale.com/c/idea/398131)
+
 #### Here you will find&#x20;
 
 Details of GitHub actions developed for the community
@@ -18,8 +20,12 @@ Open Source Training materials
 
 ## F8 ABC of Governance
 
+[https://cardano.ideascale.com/c/idea/398140](https://cardano.ideascale.com/c/idea/398140)
+
 #### Coming Soon
 
 ## F9 Treasury Advisory Service
+
+[https://cardano.ideascale.com/c/idea/418844](https://cardano.ideascale.com/c/idea/418844)
 
 Stuff here
