@@ -14,6 +14,7 @@
   * [Town Hall Slides](project-automation/project-board-automation/town-hall-slides.md)
   * [Circle KPIs](project-automation/project-board-automation/circle-kpis.md)
   * [API Connector](project-automation/project-board-automation/api-connector.md)
+  * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
 
 ## Project Management Services
 
