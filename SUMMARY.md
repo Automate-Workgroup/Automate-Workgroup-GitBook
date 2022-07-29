@@ -25,9 +25,10 @@
 ## Educational Materials
 
 * [GitBook](educational-materials/gitbook/README.md)
-  * [How to set up a GitBook](educational-materials/gitbook/how-to-set-up-a-gitbook.md)
-  * [Editing a GitBook](educational-materials/gitbook/editing-a-gitbook.md)
-  * [How to build a Challenge Team GitBook](educational-materials/gitbook/how-to-build-a-challenge-team-gitbook.md)
+  * [How to set up a GitBook](open-source-training/how-to-set-up-a-gitbook.md)
+  * [Editing a GitBook](open-source-training/editing-a-gitbook.md)
+  * [How to build a Challenge Team GitBook](open-source-training/how-to-build-a-challenge-team-gitbook.md)
+* [GitHub](educational-materials/github.md)
 * [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
 * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
 * [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
