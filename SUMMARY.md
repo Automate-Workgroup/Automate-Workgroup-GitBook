@@ -21,6 +21,8 @@
   * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
   * [Facilitation](project-management-services/project-management/facilitation.md)
   * [Deliverables](project-management-services/project-management/deliverables.md)
+  * [Documentation](project-management-services/project-management/documentation.md)
+  * [Communication](project-management-services/project-management/communication.md)
 
 ## Educational Materials
 
