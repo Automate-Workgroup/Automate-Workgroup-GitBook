@@ -2,6 +2,14 @@
 
 * [Treasury Advisory Service](README.md)
 
+## Project Automation
+
+* [Page 1](project-automation/page-1.md)
+
+## Project Management Services
+
+* [Page 2](project-management-services/page-2.md)
+
 ## Automation
 
 * [How this works](automation/how-this-works.md)
