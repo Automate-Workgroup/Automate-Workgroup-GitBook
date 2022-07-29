@@ -8,34 +8,31 @@ A joint project between Treasury Guild & QADAO&#x20;
 
 ## Overview <a href="#docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf" id="docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf"></a>
 
-Introduction to who we are.&#x20;
-
-What we have done.&#x20;
+Introduction to who we are. What we have done.&#x20;
 
 And what we offer.
 
-* Project Automation
-* Project Management Services
-* Educational Materials
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## Treasury Guild
 
-Some intro text. If you are looking for Treasury Services go here.
+Some intro text. If you are looking for Treasury Services go here. Website, Transactions GitBook. Dashboard and Proposals.
 
-* Website
-* Transactions GitBook
-* Dashboard
-* Proposals
+{% embed url="https://www.treasuryguild.io/" %}
 
 ## QADAO
 
-Some intro text.&#x20;
+Some intro text. GitBooks and Proposals
 
-* Website
-* GitBooks
-* Proposals
+{% embed url="https://quality-assurance-dao.github.io/" %}
+
+{% embed url="https://quality-assurance-dao.github.io/docs/proposals/" %}
 
 ## Our Proposals
 
