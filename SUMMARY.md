@@ -17,9 +17,10 @@
 
 ## Project Management Services
 
-* [Project Management](project-management-services/project-management/README.md)
+* [Project Management](project-management-services/page-2.md)
   * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
   * [Facilitation](project-management-services/project-management/facilitation.md)
+  * [Deliverables](project-management-services/project-management/deliverables.md)
 
 ## Open Source Training
 
