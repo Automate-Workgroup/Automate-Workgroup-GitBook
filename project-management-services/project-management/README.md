@@ -1,4 +1,4 @@
-# Project Management Overview
+# Project Management
 
 How to run a project
 
