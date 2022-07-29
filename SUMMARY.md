@@ -6,6 +6,7 @@
 
 * [General Introduction](project-automation/project-automation-overview.md)
 * [Treasury Automation](project-automation/treasury-automation.md)
+* [Project Board Automation](project-automation/project-board-automation.md)
 
 ## Project Management Services
 
