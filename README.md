@@ -1,7 +1,6 @@
 ---
 description: Welcome to Treasury Advisory Service
-cover: >-
-  https://images.unsplash.com/photo-1658225595905-7bd75d10a265?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkxMDQ4ODk&ixlib=rb-1.2.1&q=80
+cover: .gitbook/assets/preuzmi.jpg
 coverY: 0
 ---
 
