@@ -20,7 +20,7 @@ And what we offer.
 
 ## Treasury Guild
 
-Some intro text.&#x20;
+Some intro text. If you are looking for Treasury Services go here.
 
 * Website
 * Transactions GitBook
