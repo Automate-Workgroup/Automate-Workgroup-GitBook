@@ -17,7 +17,8 @@
 
 ## Project Management Services
 
-* [Project Management Overview](project-management-services/project-management-overview.md)
+* [Project Management Overview](project-management-services/page-2.md)
+* [Agendas / Meetings](project-management-services/agendas-meetings.md)
 
 ## Open Source Training
 
