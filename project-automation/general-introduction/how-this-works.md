@@ -26,7 +26,7 @@ What you have charged for this GitHub action
 
 Include the table below in your documentation and also send an invoice.
 
-![Example](<../.gitbook/assets/Gitbook (6).png>)
+![Example](<../../.gitbook/assets/Gitbook (6).png>)
 
 
 

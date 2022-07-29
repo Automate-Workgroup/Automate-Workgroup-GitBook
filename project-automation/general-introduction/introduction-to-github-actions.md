@@ -18,11 +18,11 @@ GitHub actions gets triggered by specific events. There are more than 90 events 
 
 After you found the action you need on the Marketplace, you need to create the action Yaml file. You can start this by going to the root of your GitHub repo and creating a new file like so.
 
-![Click Add file and then Create new file](<../.gitbook/assets/Gitbook (1).png>)
+![Click Add file and then Create new file](<../../.gitbook/assets/Gitbook (1).png>)
 
 Next type the following ".github/workflows/discord.yml" You'll notice as you type, every time you type a forward slash the colour of the text and the typefield changes. You can name your action anything you want, but the directory for GitHub actions always needs to be "/.github/workflows/" like so...
 
-![Be sure to end your filename with .yml](<../.gitbook/assets/Gitbook (2).png>)
+![Be sure to end your filename with .yml](<../../.gitbook/assets/Gitbook (2).png>)
 
 Next copy the code from this codeblock into the body of your new yaml file.
 
@@ -68,15 +68,15 @@ For this action we will be using the "issues" trigger. Every time an issue is \[
 
 
 
-![Notice that step 2 is the name of the action](<../.gitbook/assets/Gitbook (3).png>)
+![Notice that step 2 is the name of the action](<../../.gitbook/assets/Gitbook (3).png>)
 
-![The name of the action](<../.gitbook/assets/Gitbook (4) (1).png>)
+![The name of the action](<../../.gitbook/assets/Gitbook (4) (1).png>)
 
 #### 3.2 Jobs
 
 You can run more than one job per action and some jobs can be set to only run after another job has completed. For this action we will only run one job.&#x20;
 
-![Change the values of the blue text under "with:" to experiment a bit](<../.gitbook/assets/Gitbook (4).png>)
+![Change the values of the blue text under "with:" to experiment a bit](<../../.gitbook/assets/Gitbook (4).png>)
 
 Under "steps:" you'll see "uses: rjstone/discord-webhook-notify@v1". You can access the repo of the action by typing the following URL... github.com/rjstone/discord-webhook-notify  Be sure to read the documentation in the repo as well and to look at the test.yml in the workflows folder.
 
@@ -88,15 +88,15 @@ You will need to create a secret that stores your Discord Webhook. To find out h
 
 <mark style="color:blue;">To get your Discord Webhook code go to Server settings in Discord.</mark>
 
-![](<../.gitbook/assets/Gitbook (5) (1).png>)
+![](<../../.gitbook/assets/Gitbook (5) (1).png>)
 
 Then integrations and then View Webhooks.
 
-![](<../.gitbook/assets/Gitbook (6) (1) (1).png>)
+![](<../../.gitbook/assets/Gitbook (6) (1) (1).png>)
 
 &#x20;Next up click New Webhook and then Copy Webhook URL.
 
-![](<../.gitbook/assets/Gitbook (7) (1).png>)
+![](<../../.gitbook/assets/Gitbook (7) (1).png>)
 
 Go ahead and create a Github action secret and paste the Webhook URL in the secret.
 
@@ -104,15 +104,15 @@ Go ahead and create a Github action secret and paste the Webhook URL in the secr
 
 Use workflow dispatch to test your Github action. Click on the issue name after you've run it.
 
-![](<../.gitbook/assets/Gitbook (7).png>)
+![](<../../.gitbook/assets/Gitbook (7).png>)
 
 Next click here
 
-![](<../.gitbook/assets/Gitbook (6) (1).png>)
+![](<../../.gitbook/assets/Gitbook (6) (1).png>)
 
 You can expand these fields to have a look at the different steps the action goes through.&#x20;
 
-![](<../.gitbook/assets/Gitbook (5).png>)
+![](<../../.gitbook/assets/Gitbook (5).png>)
 
 You will notice when your action runs into an error it will leave a message that tells you at which point it ran into an error.&#x20;
 

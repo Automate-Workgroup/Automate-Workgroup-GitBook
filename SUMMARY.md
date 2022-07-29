@@ -4,32 +4,20 @@
 
 ## Project Automation
 
-* [General Introduction](project-automation/project-automation-overview.md)
-* [Treasury Automation](project-automation/treasury-automation.md)
-* [Project Board Automation](project-automation/project-board-automation.md)
+* [General Introduction](project-automation/general-introduction/README.md)
+  * [How this works](project-automation/general-introduction/how-this-works.md)
+  * [Introduction to GitHub Actions](project-automation/general-introduction/introduction-to-github-actions.md)
+  * [How to create a PAT token (Personal Access Token)](project-automation/general-introduction/pat-token.md)
+* [Treasury Automation](project-automation/treasury-automation/README.md)
+  * [Treasury Action](project-automation/treasury-automation/treasury-action.md)
+* [Project Board Automation](project-automation/project-board-automation/README.md)
+  * [Town Hall Slides](project-automation/project-board-automation/town-hall-slides.md)
+  * [Circle KPIs](project-automation/project-board-automation/circle-kpis.md)
+  * [API Connector](project-automation/project-board-automation/api-connector.md)
 
 ## Project Management Services
 
 * [Page 2](project-management-services/page-2.md)
-
-## Automation
-
-* [How this works](automation/how-this-works.md)
-
-## Introduction and Pat tokens
-
-* [Introduction to GitHub Actions](introduction-and-pat-tokens/introduction-to-github-actions.md)
-* [How to create a PAT token (Personal Access Token)](introduction-and-pat-tokens/pat-token.md)
-
-## Treasury-automation
-
-* [Treasury Action](treasury-automation/treasury-action.md)
-
-## Circle-Automation
-
-* [Town Hall Slides](circle-automation/town-hall-slides.md)
-* [Circle KPIs](circle-automation/circle-kpis.md)
-* [API Connector](circle-automation/api-connector.md)
 
 ## Open Source Training
 
