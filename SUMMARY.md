@@ -35,17 +35,18 @@
 
 ## Project Administration
 
-* [Fund 6](project-administration/fund-6.md)
-* [F8 ABC of Governance](project-administration/f8-abc-of-governance/README.md)
-  * [Monthly Reports](project-administration/f8-abc-of-governance/monthly-reports.md)
-* [F8 Automate, Educate, Communicate](project-administration/f8-automate-educate-communicate/README.md)
-  * [F8 Automate - OnBoarding](project-administration/f8-automate-educate-communicate/f8-automate-onboarding.md)
-  * [F8 Automate - May report](project-administration/f8-automate-educate-communicate/f8-automate-may-report.md)
-  * [F8 Automate - June report](project-administration/f8-automate-educate-communicate/f8-automate-may-report-1.md)
-  * [F8 Automate - July report](project-administration/f8-automate-educate-communicate/f8-automate-may-report-1-1.md)
-* [F6 Distributed Auditability](project-administration/f6-distributed-auditability.md)
-* [F6 Open Source Training](project-administration/f6-open-source-training.md)
-* [Meetings](project-administration/meetings.md)
+* [Fund 6](project-administration/fund-6/README.md)
+  * [F6 Distributed Auditability](project-administration/fund-6/f6-distributed-auditability.md)
+  * [F6 Open Source Training](project-administration/fund-6/f6-open-source-training.md)
+* [Fund 8](project-administration/fund-8.md)
+* [F8 ABC of Governance](proposal-reporting/f8-abc-of-governance/README.md)
+  * [Monthly Reports](proposal-reporting/f8-abc-of-governance/monthly-reports.md)
+* [F8 Automate, Educate, Communicate](proposal-reporting/f8-automate-educate-communicate/README.md)
+  * [F8 Automate - OnBoarding](proposal-reporting/f8-automate-educate-communicate/f8-automate-onboarding.md)
+  * [F8 Automate - May report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report.md)
+  * [F8 Automate - June report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report-1.md)
+  * [F8 Automate - July report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report-1-1.md)
+* [Meetings](proposal-reporting/meetings.md)
 
 ## gimbalabs
 
