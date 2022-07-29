@@ -24,13 +24,13 @@
 
 ## Educational Materials
 
-* [GitBook](educational-materials/gitbook.md)
-* [How to build a Challenge Team GitBook](educational-materials/how-to-build-a-challenge-team-gitbook.md)
-* [Editing a GitBook](educational-materials/editing-a-gitbook.md)
-* [Circle Admin GitHub Training](educational-materials/circle-admin-github-training.md)
-* [Catalyst Circle Prioritized Problems](educational-materials/catalyst-circle-prioritized-problems.md)
-* [Circle V3 GitHub Problem Board](educational-materials/circle-v3-github-problem-board.md)
-* [How to set up a GitBook](educational-materials/how-to-set-up-a-gitbook.md)
+* [GitBook](educational-materials/gitbook/README.md)
+  * [How to set up a GitBook](educational-materials/gitbook/how-to-set-up-a-gitbook.md)
+  * [Editing a GitBook](educational-materials/gitbook/editing-a-gitbook.md)
+  * [How to build a Challenge Team GitBook](educational-materials/gitbook/how-to-build-a-challenge-team-gitbook.md)
+* [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
+* [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
+* [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
 
 ## Proposal Reporting
 
