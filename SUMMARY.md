@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Training and automation](README.md)
+* [Treasury Advisory Service](README.md)
 
 ## Automation
 

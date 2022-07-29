@@ -1,8 +1,8 @@
 ---
-description: Welcome to Training & Automation
+description: Welcome to Treasury Advisory Service
 ---
 
-# Training and automation
+# Treasury Advisory Service
 
 ## A joint project between Treasury Guild & QADAO&#x20;
 
