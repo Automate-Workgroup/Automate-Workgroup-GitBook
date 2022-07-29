@@ -29,22 +29,23 @@
   * [Editing a GitBook](open-source-training/editing-a-gitbook.md)
   * [How to build a Challenge Team GitBook](open-source-training/how-to-build-a-challenge-team-gitbook.md)
 * [GitHub](educational-materials/github/README.md)
-  * [Circle Admin GitHub Training](educational-materials/github/circle-admin-github-training.md)
-  * [Catalyst Circle Prioritized Problems](educational-materials/github/catalyst-circle-prioritized-problems.md)
-  * [Circle V3 GitHub Problem Board](educational-materials/github/circle-v3-github-problem-board.md)
+  * [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
+  * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
+  * [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
 
-## Proposal Reporting
+## Project Administration
 
-* [F8 ABC of Governance](proposal-reporting/f8-abc-of-governance/README.md)
-  * [Monthly Reports](proposal-reporting/f8-abc-of-governance/monthly-reports.md)
-* [F8 Automate, Educate, Communicate](proposal-reporting/f8-automate-educate-communicate/README.md)
-  * [F8 Automate - OnBoarding](proposal-reporting/f8-automate-educate-communicate/f8-automate-onboarding.md)
-  * [F8 Automate - May report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report.md)
-  * [F8 Automate - June report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report-1.md)
-  * [F8 Automate - July report](proposal-reporting/f8-automate-educate-communicate/f8-automate-may-report-1-1.md)
-* [F6 Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
-* [F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
-* [Meetings](proposal-reporting/meetings.md)
+* [Fund 6](project-administration/fund-6.md)
+* [F8 ABC of Governance](project-administration/f8-abc-of-governance/README.md)
+  * [Monthly Reports](project-administration/f8-abc-of-governance/monthly-reports.md)
+* [F8 Automate, Educate, Communicate](project-administration/f8-automate-educate-communicate/README.md)
+  * [F8 Automate - OnBoarding](project-administration/f8-automate-educate-communicate/f8-automate-onboarding.md)
+  * [F8 Automate - May report](project-administration/f8-automate-educate-communicate/f8-automate-may-report.md)
+  * [F8 Automate - June report](project-administration/f8-automate-educate-communicate/f8-automate-may-report-1.md)
+  * [F8 Automate - July report](project-administration/f8-automate-educate-communicate/f8-automate-may-report-1-1.md)
+* [F6 Distributed Auditability](project-administration/f6-distributed-auditability.md)
+* [F6 Open Source Training](project-administration/f6-open-source-training.md)
+* [Meetings](project-administration/meetings.md)
 
 ## gimbalabs
 
