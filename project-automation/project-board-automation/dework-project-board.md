@@ -14,6 +14,10 @@ Task Points
 
 Discord Assignees
 
+Tags
+
+Status - TO DO / DONE etc
+
 ## Reporting
 
 csv export of Project Board data
