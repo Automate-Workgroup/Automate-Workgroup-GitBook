@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Treasury Advisory Service](README.md)
+* [Setup Meeting](setup-meeting.md)
 
 ## Treasury Services
 
