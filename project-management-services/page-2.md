@@ -1,5 +1,18 @@
 # Project Management
 
-How to run a project
+## Our Approach
 
-How to run a project
+Our approach to managing proposals
+
+Open Mind
+
+Listening
+
+Not prescriptive
+
+
+
+
+
+
+
