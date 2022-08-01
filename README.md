@@ -36,13 +36,15 @@ comprises -
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-## Treasury Guild
+## Who we are
+
+### Treasury Guild
 
 Some intro text. If you are looking for Treasury Services go here. Website, Transactions GitBook. Dashboard and Proposals.
 
 {% embed url="https://www.treasuryguild.io/" %}
 
-## QADAO
+### QADAO
 
 Some intro text. GitBooks and Proposals
 
@@ -50,7 +52,9 @@ Some intro text. GitBooks and Proposals
 
 {% embed url="https://quality-assurance-dao.github.io/docs/proposals/" %}
 
-## Our Proposals
+## What we have done
+
+### Our Proposals
 
 F8 Automate, Educate, Communicate
 
@@ -60,4 +64,12 @@ F9 Treasury Advisory Service
 
 [https://cardano.ideascale.com/c/idea/418844](https://cardano.ideascale.com/c/idea/418844)
 
-\
+## Why you should work with us
+
+Reasons
+
+
+
+## What we offer
+
+stuff we offer\
