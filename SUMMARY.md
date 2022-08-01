@@ -6,7 +6,7 @@
 
 ## Treasury Services
 
-* [Treasury](treasury-services/treasury/README.md)
+* [Treasury](treasury-services/treasury-overview.md)
   * [Funded proposal budgets](treasury-services/treasury/funded-proposal-budgets.md)
   * [Manage wallets](treasury-services/treasury/manage-wallets.md)
   * [Treasury analysis](treasury-services/treasury/treasury-analysis.md)
