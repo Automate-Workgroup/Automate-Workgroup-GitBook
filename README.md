@@ -26,6 +26,10 @@ And what we offer.
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ## Treasury Guild
 
 Some intro text. If you are looking for Treasury Services go here. Website, Transactions GitBook. Dashboard and Proposals.

@@ -2,6 +2,19 @@
 
 * [Treasury Advisory Service](README.md)
 
+## Treasury Services
+
+* [Treasury Overview](treasury-services/treasury-overview.md)
+
+## Project Management Services
+
+* [Project Management](project-management-services/page-2.md)
+  * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
+  * [Facilitation](project-management-services/project-management/facilitation.md)
+  * [Deliverables](project-management-services/project-management/deliverables.md)
+  * [Documentation](project-management-services/project-management/documentation.md)
+  * [Communication](project-management-services/project-management/communication.md)
+
 ## Project Automation
 
 * [General Introduction](project-automation/general-introduction/README.md)
@@ -15,15 +28,6 @@
   * [Circle KPIs](project-automation/project-board-automation/circle-kpis.md)
   * [API Connector](project-automation/project-board-automation/api-connector.md)
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
-
-## Project Management Services
-
-* [Project Management](project-management-services/page-2.md)
-  * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
-  * [Facilitation](project-management-services/project-management/facilitation.md)
-  * [Deliverables](project-management-services/project-management/deliverables.md)
-  * [Documentation](project-management-services/project-management/documentation.md)
-  * [Communication](project-management-services/project-management/communication.md)
 
 ## Educational Materials
 
