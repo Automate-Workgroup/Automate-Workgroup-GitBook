@@ -2,6 +2,7 @@
 
 * [Treasury Advisory Service](README.md)
 * [Setup Meeting](setup-meeting.md)
+* [The Formal Agreement](the-formal-agreement.md)
 
 ## Treasury Services
 
