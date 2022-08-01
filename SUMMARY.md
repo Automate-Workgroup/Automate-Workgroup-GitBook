@@ -14,6 +14,7 @@
 ## Project Management Services
 
 * [Project Management](project-management-services/page-2.md)
+  * [Human Resources](project-management-services/project-management/human-resources.md)
   * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
   * [Facilitation](project-management-services/project-management/facilitation.md)
   * [Deliverables](project-management-services/project-management/deliverables.md)
