@@ -1,6 +1,6 @@
 ---
 description: Welcome to Treasury Advisory Service
-cover: .gitbook/assets/preuzmi.jpg
+cover: .gitbook/assets/graph.jpg
 coverY: 0
 ---
 
