@@ -18,23 +18,6 @@ Why you should work with us -&#x20;
 
 And what we offer -&#x20;
 
-### Treasury Advisory Service&#x20;
-
-comprises -
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-### Resources
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 ## Who we are
 
@@ -82,3 +65,22 @@ Treasury Guild advisory service will manage budgets & document transactions so t
 
 \
 Our deliverables&#x20;
+
+### Treasury Advisory Service&#x20;
+
+comprises -
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+### Resources
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
