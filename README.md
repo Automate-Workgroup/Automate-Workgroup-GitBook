@@ -12,9 +12,9 @@ A joint project between Treasury Guild & QADAO&#x20;
 
 Introduction to who we are - We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
 
-What we have done.&#x20;
+What we have done -
 
-Why you should work with us
+Why you should work with us -&#x20;
 
 And what we offer - Treasury Guild advisory service will manage budgets & document transactions so that everything is accessible and transparent. We will also provide Project Management support to ease proposal delivery.
 
@@ -40,9 +40,11 @@ comprises -
 
 ### Treasury Guild
 
-Some intro text. If you are looking for Treasury Services go here. Website, Transactions GitBook. Dashboard and Proposals.
+Treasury Guild offers a 1 to 1 accounting and treasury service to projects within the Catalyst ecosystem. If you are looking for Treasury Services go [here](https://www.treasuryguild.io/service/). Below you will find our website, Transaction GitBooks and Proposals (need to update proposals page)
 
 {% embed url="https://www.treasuryguild.io/" %}
+
+{% embed url="https://treasuryguild.github.io/Gitbook/" %}
 
 ### QADAO
 
