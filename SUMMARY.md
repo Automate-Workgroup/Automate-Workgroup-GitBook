@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Treasury Advisory Service](README.md)
-* [Setup Meeting](setup-meeting.md)
-* [The Formal Agreement](the-formal-agreement.md)
+  * [Setup Meeting](readme/setup-meeting.md)
+  * [The Formal Agreement](readme/the-formal-agreement.md)
 
 ## Treasury Services
 
