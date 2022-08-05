@@ -16,7 +16,7 @@ What we have done -
 
 Why you should work with us -&#x20;
 
-And what we offer - Treasury Guild advisory service will manage budgets & document transactions so that everything is accessible and transparent. We will also provide Project Management support to ease proposal delivery.
+And what we offer -&#x20;
 
 ### Treasury Advisory Service&#x20;
 
@@ -78,7 +78,7 @@ Our approach
 
 ## What we offer
 
-stuff we offer
+Treasury Guild advisory service will manage budgets & document transactions so that everything is accessible and transparent. We will also provide Project Management support to ease proposal delivery.
 
 \
 Our deliverables&#x20;
