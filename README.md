@@ -68,7 +68,7 @@ F9 Treasury Advisory Service
 
 ## Why you should work with us
 
-Values
+Values - We put transparency first and follow open source principles.
 
 Our approach
 
