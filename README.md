@@ -6,18 +6,11 @@ coverY: 0
 
 # Treasury Advisory Service
 
-A joint project between Treasury Guild & QADAO&#x20;
+A joint project between Treasury Guild & QADAO
 
 ## Overview <a href="#docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf" id="docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf"></a>
 
 Introduction to who we are - We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
-
-What we have done -
-
-Why you should work with us -&#x20;
-
-And what we offer -&#x20;
-
 
 ## Who we are
 
@@ -55,32 +48,15 @@ Values - We put transparency first and follow open source principles.
 
 Our approach
 
-
-
-
-
 ## What we offer
 
 Treasury Guild advisory service will manage budgets & document transactions so that everything is accessible and transparent. We will also provide Project Management support to ease proposal delivery.
 
 \
-Our deliverables&#x20;
+Our deliverables
 
-### Treasury Advisory Service&#x20;
+### Treasury Advisory Service
 
 comprises -
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### Resources
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
