@@ -84,9 +84,9 @@ You can change the avatar of the discord message, the text in description, detai
 
 #### 3.3 GitHub Action secret and Discord Webhook
 
-You will need to create a secret that stores your Discord Webhook. To find out how to create a secret, have a look at the last section that covers secret creation [<mark style="color:blue;">**here**</mark>](pat-token.md)<mark style="color:blue;">**.**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">Just skip past the PAT token section.</mark>&#x20;
+You will need to create a secret that stores your Discord Webhook. To find out how to create a secret, _skip past the PAT token section_ and have a look at the last section that covers secret creation [<mark style="color:blue;">**here**</mark>](pat-token.md)<mark style="color:blue;">**.**</mark> &#x20;
 
-<mark style="color:blue;">To get your Discord Webhook code go to Server settings in Discord.</mark>
+To get your Discord Webhook code go to Server settings in Discord
 
 ![](<../../.gitbook/assets/Gitbook (5) (1).png>)
 
