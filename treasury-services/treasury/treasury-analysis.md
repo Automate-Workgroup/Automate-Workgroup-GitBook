@@ -24,8 +24,8 @@ Any updates to the monthly payments will be decided based on the monthly report.
 
 ### Upcoming payments
 
-We will then prepare the information for the upcoming payments in Google sheets and on the day IOG releases the funds we will make all the agreed upon payments.
+We will then prepare the information for the upcoming payments in spreadsheets and on the day IOG releases the funds we will make all the agreed upon payments.
 
 {% hint style="info" %}
-upcoming payments&#x20;
+prepare upcoming payments&#x20;
 {% endhint %}
