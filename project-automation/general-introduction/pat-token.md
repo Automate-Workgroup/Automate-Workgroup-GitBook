@@ -24,6 +24,8 @@ After you click generate token you will get to this page. Copy the token code. C
 
 ![](<../../.gitbook/assets/Untitled (4).png>)
 
+## Creating a GitHub Secret
+
 Next up we're going to create a GitHub secret. Go to the repo settings.
 
 ![](<../../.gitbook/assets/Untitled (6).png>)
