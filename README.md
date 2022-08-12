@@ -46,7 +46,7 @@ F9 Treasury Advisory Service
 
 Values - We put transparency first and follow open source principles.
 
-Our approach
+Our approach - Most projects on Catalyst evolve as they execute their deliverables. As these changes happen we also need to adapt and update the treasury project plan. Monthly reports will be generated and presented to the project team to open up any changes to the original plan and agree on the updated plan. Any updates to the monthly payments will be decided based on the monthly report. We will then prepare the information for the upcoming payments in spreadsheets and on the day IOG releases the funds we will make all the agreed upon payments. All transactions we execute carry metadata and are documented for public viewing. We will either share or have sole access to the wallet that holds the funds.
 
 ## What we offer
 
