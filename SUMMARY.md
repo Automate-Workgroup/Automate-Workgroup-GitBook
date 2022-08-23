@@ -59,6 +59,7 @@
     * [F8 Automate - May report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report.md)
     * [F8 Automate - June report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1.md)
     * [F8 Automate - July report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1.md)
+    * [F8 Automate - August report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1.md)
 * [Meetings](proposal-reporting/meetings.md)
 
 ## gimbalabs
