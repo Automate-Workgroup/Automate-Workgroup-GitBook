@@ -1,5 +1,5 @@
 ---
-description: Draft guidance fore Clients on OS Licences
+description: Draft guidance for Clients on OS Licenses
 ---
 
 # Open Source Standards
@@ -14,3 +14,10 @@ Useful links
 * [https://www.youtube.com/watch?v=8nLfGcLXK3A](https://www.youtube.com/watch?v=8nLfGcLXK3A)
 * [https://www.youtube.com/watch?v=UMIG4KnM8xw](https://www.youtube.com/watch?v=UMIG4KnM8xw)
 
+## Open Source Licenses
+
+Stephen Whitenstall&#x20;
+
+Types of License
+
+How to choose
