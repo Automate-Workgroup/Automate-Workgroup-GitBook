@@ -104,18 +104,14 @@ Funded by Automate Educate Communicate
 
 Where it is in production and who signed it off
 
-{% embed url="https://cc-treasury.github.io/CircleKPIs" %}
-Circle KPIs
+{% embed url="https://github.com/orgs/treasuryguild/projects/1/views/1" %}
+Project Board with Agenda Issue
 {% endembed %}
 
-{% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
-Yml file of GitHub action
+{% embed url="https://github.com/treasuryguild/Treasury-Advisory-Service/blob/main/.github/workflows/meetingIssue.yml" %}
+Action Yml File
 {% endembed %}
 
-{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues" %}
-GitHub Issues
-{% endembed %}
-
-{% embed url="https://github.com/CC-Treasury/CircleKPIs/tree/gh-pages" %}
-gh\_pages branch
+{% embed url="https://github.com/treasuryguild/Treasury-Advisory-Service/issues/66" %}
+Example of Agenda Issue
 {% endembed %}
