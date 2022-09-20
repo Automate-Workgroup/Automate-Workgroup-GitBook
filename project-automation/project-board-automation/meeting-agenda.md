@@ -88,17 +88,17 @@ jobs:
 
 Funded by Automate Educate Communicate
 
-[https://cardano.ideascale.com/c/idea/368678](https://cardano.ideascale.com/c/idea/368678)
+[https://cardano.ideascale.com/c/idea/398131](https://cardano.ideascale.com/c/idea/398131)
 
 ## Charging / Budget (Example)
 
-| Task                         | Hours | Charge @ $55 an hour |
-| ---------------------------- | ----- | -------------------- |
-| Development                  | 4     | $ 220                |
-| Testing                      | 2     | $ 110                |
-| Implementation in production | 1     | $ 55                 |
-| Documentation                | 2     | 110                  |
-| **Totals**                   | **7** | **$ 495**            |
+| Task                         | Hours  | Charge @ $55 an hour |
+| ---------------------------- | ------ | -------------------- |
+| Development                  | 10     | $ 550                |
+| Testing                      | 2      | $ 110                |
+| Implementation in production | 1      | $ 55                 |
+| Documentation                | 2      | 110                  |
+| **Totals**                   | **15** | **$ 825**            |
 
 ## Sign-Off
 
