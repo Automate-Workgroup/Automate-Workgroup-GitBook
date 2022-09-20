@@ -1,12 +1,12 @@
 ---
-description: Project Board Agenda Automation
+description: Circle KPI automation
 ---
 
 # Meeting Agenda Action
 
 ## Overview
 
-This GitHub action looks for an open issue with the label "Meeting". It copies the body of the issue and closes the issue. It then creates a new issue with the same body as the old issue, but with an updated date and title. It uses Cron to have the issues ready for scheduled dates. This is useful for having an issue on your project board that serves as an agenda for meetings. This particular action is built to update the agenda twice a week.
+This GitHub action looks for an open issue with the label "Meeting". It copies the body of the issue and closes the issue. It then creates a new issue with the same body as the old issue, but with an updated title. It uses Cron to have the issues ready for scheduled dates.
 
 
 
