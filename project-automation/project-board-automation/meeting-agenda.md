@@ -22,6 +22,32 @@ Next up we set the env variables. Enter the names of the org and repo where the 
 
 <figure><img src="../../.gitbook/assets/image_2022-09-21_082009450.png" alt=""><figcaption></figcaption></figure>
 
+### 3.  Find the issue
+
+The first step will look for an open issue with the label you provided for the env variable. Take note that you should have only one open issue with this label on the project board. The "state" key refers to the state of the issue (open or closed). And the "labels" key refers to the label of the issue. Note the format we use when referring to env variables - "$\{{ env.Labels \}}" Its basically env. followed by the key we used when setting the variables. (Refer to step above) When this step completes we can get the issue number from it at a later stage by calling the result.
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_083234469.png" alt=""><figcaption></figcaption></figure>
+
+### 4. Doing an API call and setting result to env variable
+
+Next up we get the issue number of the issue found in the step that looked for the open issue with the label. We call this result like so - $\{{ steps.last-issue.outputs.issue-number \}}
+
+We then use this issue number in an API call. This API call looks for an issue in a repo. Note how we use the org and repo env variables in the url as well.&#x20;
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_084933012.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_085031121.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_085108658.png" alt=""><figcaption></figcaption></figure>
+
+The ".body" refers to the key in the returned Json, that you need the value of. If you wanted the title of this issue you would replace .body with .title .We then take the result and turn it into yet another env variable called iBody. Note that this is another way of setting env variables.
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_085208683.png" alt=""><figcaption></figcaption></figure>
+
+Also note how we get values from other steps by using   steps - id - outputs - name.&#x20;
+
+Like so - $\{{ steps.propdata.outputs.data \}}  . The id in this case was propdata and the name was data. You'll see when we do the API call we set the name to data in the beginning of the line right after echo.
+
 ## Code
 
 ```
@@ -45,7 +71,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-    - name: Find the last open report issue
+    - name: Find the open issue
       id: last-issue
       uses: micalevisk/last-issue-action@v2
       with:
