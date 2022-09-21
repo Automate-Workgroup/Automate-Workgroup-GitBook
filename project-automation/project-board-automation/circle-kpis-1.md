@@ -56,11 +56,11 @@ Funded by Automate Communicate Educate
 
 | Task                         | Hours | Charge @ $55 an hour |
 | ---------------------------- | ----- | -------------------- |
-| Development                  | 0.333 | $ 18.315             |
-| Testing                      | 0.333 | $ 18.315             |
-| Implementation in production | 0.333 | $ 18.315             |
-| Documentation                | 1     | 55                   |
-| **Totals**                   | **2** | **$ 110**            |
+| Development                  | 0.25  | $ 13.75              |
+| Testing                      | 0.25  | $ 13.75              |
+| Implementation in production | 0.25  | $ 13.75              |
+| Documentation                | 0.25  | $ 13.75              |
+| **Totals**                   | **2** | **$ 55**             |
 
 ## Sign-Off
 
