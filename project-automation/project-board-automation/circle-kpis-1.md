@@ -16,9 +16,16 @@ This is a very simple action that runs every time a new issues is created.&#x20;
 
 ### 2. Add label to new issue
 
-Provide the label you want to add to the issue. You can add more than one value, just seperate them with commas.&#x20;
+Provide the label you want to add to the issue. You can add more than one value, just separate them with commas like so - "needs-triage, bug". You can even also remove labels.
+
+```
+add-labels: "needs-triage, bug"
+remove-labels: "in progress"
+```
 
 <figure><img src="../../.gitbook/assets/image_2022-09-21_110832899.png" alt=""><figcaption></figcaption></figure>
+
+That is all there is to this action. You can get creative with when this action should run and whether it needs to add or remove labels based on whether the issues are opened or closed.
 
 ## Code
 
