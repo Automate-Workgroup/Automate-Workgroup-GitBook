@@ -153,6 +153,8 @@ jobs:
         linked-comments: true
 ```
 
+And that is it. When you copy this code to your repo, be sure to change the "org", "repo" and "labels" values to match your repo and issue. Also make sure to change the project number in the last step of the action to match your project board number.
+
 ## Training
 
 Funded by Automate Educate Communicate
