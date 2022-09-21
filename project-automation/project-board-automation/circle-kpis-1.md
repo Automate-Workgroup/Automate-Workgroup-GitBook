@@ -12,7 +12,13 @@ This is a very simple action that runs every time a new issues is created.&#x20;
 
 ### 1. Schedule action to run when issue is opened
 
+<figure><img src="../../.gitbook/assets/image_2022-09-21_110621267.png" alt=""><figcaption></figcaption></figure>
 
+### 2. Add label to new issue
+
+Provide the label you want to add to the issue. You can add more than one value, just seperate them with commas.&#x20;
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_110832899.png" alt=""><figcaption></figcaption></figure>
 
 ## Code
 
