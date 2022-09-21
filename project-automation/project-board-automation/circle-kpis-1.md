@@ -1,10 +1,18 @@
 ---
-description: Circle KPI automation
+description: Automation that adds label to all newly created issues
 ---
 
 # Add label to newly created issues
 
 ## Overview
+
+This is a simple action that adds a label to all newly created issues. For this project we will only add tasks that can be paid to the project board. So we need all new issues to have ADA Due. We will change the "ADA due" to "ADA paid" at a later stage, maybe in another action.
+
+This is a very simple action that runs every time a new issues is created.&#x20;
+
+### 1. Schedule action to run when issue is opened
+
+
 
 ## Code
 
@@ -45,18 +53,6 @@ Funded by Automate Communicate Educate
 
 Where it is in production and who signed it off
 
-{% embed url="https://cc-treasury.github.io/CircleKPIs" %}
-Circle KPIs
-{% endembed %}
+{% embed url="https://github.com/treasuryguild/Treasury-Advisory-Service/blob/main/.github/workflows/ada-due-label.yml" %}
 
-{% embed url="https://github.com/CC-Treasury/CircleKPIs/blob/main/.github/workflows/main.yml" %}
-Yml file of GitHub action
-{% endembed %}
-
-{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues" %}
-GitHub Issues
-{% endembed %}
-
-{% embed url="https://github.com/CC-Treasury/CircleKPIs/tree/gh-pages" %}
-gh\_pages branch
-{% endembed %}
+{% embed url="https://github.com/orgs/treasuryguild/projects/1" %}
