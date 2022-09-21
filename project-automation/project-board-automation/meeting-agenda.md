@@ -10,7 +10,17 @@ This GitHub action looks for an open issue with the label "Meeting". It copies t
 
 It uses the same marketplace GitHub Action found in the Town Hall Slides action, along side another action to find an issue with a certain label. We also do an API call, some text formatting and make use of environment variables in this action.
 
+### 1.  Schedule
 
+We use workflow\_dispatch to manually run our action for testing purposes while building the action. Once we are happy with the results we set the cron value to run our action on specific dates.
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_081454567.png" alt=""><figcaption></figcaption></figure>
+
+### 2. Env Variables
+
+Next up we set the env variables. Enter the names of the org and repo where the project board lives that holds the issue. Enter the label of the issue you want to update. Its best to have a unique label for this one issue to avoid updating other issues.
+
+<figure><img src="../../.gitbook/assets/image_2022-09-21_082009450.png" alt=""><figcaption></figcaption></figure>
 
 ## Code
 
