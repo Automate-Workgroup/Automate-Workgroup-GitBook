@@ -32,7 +32,7 @@
 * [Project Board Automation](project-automation/project-board-automation/README.md)
   * [Town Hall Slides](project-automation/project-board-automation/town-hall-slides.md)
   * [Circle KPIs](project-automation/project-board-automation/circle-kpis.md)
-  * [Add label to newly created issues](project-automation/project-board-automation/circle-kpis-1.md)
+  * [Add label to newly created issues](<project-automation/project-board-automation/issue -labels.md>)
   * [Meeting Agenda Action](project-automation/project-board-automation/meeting-agenda.md)
   * [API Connector](project-automation/project-board-automation/api-connector.md)
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
