@@ -1,6 +1,6 @@
-# F8 Automate - October report
+# F8 Automate - November report
 
-## Monthly Report for October
+## Monthly Report for November
 
 ### Project ID
 
@@ -28,15 +28,15 @@ Still in progress
 
 ### Is the project on track? \*
 
-Yes
+No
 
 ### If you answered No to the above question, what are the issues or blockages you are having?
 
-
+We are taking a small break, the value of the ada in the wallet is quite low now due to the markets and we dont want to run out of funds. We are still doing research in another project that will help identify new automations, but we will pause any automation work for a while.
 
 ### When is your project scheduled to complete? (This question is about understanding when you will launch/implement the solution you have developed)
 
-In the next 3 months
+In the next 6 months
 
 ### Do you plan to launch a token? (optional)
 
@@ -48,11 +48,11 @@ No
 
 ### Please provide details here about the work, tasks, activities you have delivered since last report. The more detail the better - one line is not sufficient \*
 
-We are involved and doing research in another project (Governance Services Guild) where we are trying to identify automations that can be done on the project board that also integrates with dework. We have seen opportunities for automations, but more iterations is needed to refine the weekly processes. Once patterns are identified and verified to be consistent, we can dedicate to automating those processes. Whatever we find in this research will be brought over to this project to document and use as inspiration for more possible automations. We also closed a few tasks on the project board this month, mostly admin work, making room for more automation work.
+We are gathering information from the other projects we are involved in. Every project has a different way of doing project management and reporting. We will use the information we gather to identify new automations. GitHub is also receiving new updates which will enable new kinds of automations. We will look at these new updates as they roll out. Once we identified any possible automations we will put them on the project board.
 
 ### Is there anything you would like to communicate to the Funded Proposer of Toolmakers Catalyst Circle reps to discuss in their forum? For example articulating ideas or recommendations for improvements to the Catalyst ecosystem?
 
-Not at this time
+Please fix this question - It should be Funded Proposer "OR" Toolmakers .... not "of" .
 
 ### Do you wish to provide your evidence by way of a URL/ link(s) or do you wish to upload your evidence? \*
 
@@ -64,4 +64,4 @@ Link
 
 ### Please provide a brief explanation of the evidence you are submitting - what does the evidence show? how does it demonstrate your month on month progress? \*
 
-This is a link to our project board. The automated agenda is still working fine and we continue to use and test it. We closed a few tasks last month, making room for more automation tasks.
+This is a link to our project board. Not much going on at the moment as we are doing research in other projects and taking a small break due to the markets.
