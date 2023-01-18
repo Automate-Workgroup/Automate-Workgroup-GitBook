@@ -64,4 +64,4 @@ Link
 
 ### Please provide a brief explanation of the evidence you are submitting - what does the evidence show? how does it demonstrate your month on month progress? \*
 
-TThis is a link to our project board. We havent, been meeting since November. Once we have identified new automations we will start meeting again and start building and documenting these new automations. Right now we are doing research in the other projects we are involved in.
+This is a link to our project board. We havent, been meeting since November. Once we have identified new automations we will start meeting again and start building and documenting these new automations. Right now we are doing research in the other projects we are involved in.
