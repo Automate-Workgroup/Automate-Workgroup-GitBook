@@ -67,6 +67,7 @@
     * [F8 Automate - October report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-2.md)
     * [F8 Automate - November report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-3.md)
     * [F8 Automate - December report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-4.md)
+    * [F8 Automate - Jan 2023 report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-5.md)
 * [Meetings](proposal-reporting/meetings.md)
 
 ## gimbalabs
