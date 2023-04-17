@@ -4,13 +4,19 @@ description: Town Hall Slides Automation
 
 # Town Hall Slides
 
+{% hint style="info" %}
+Developed by : Andre Diamond
+
+Funded by -
+{% endhint %}
+
 ## Overview
 
 This GitHub action pulls data from an issue template markdown file, creates an issue with that data and places the issue in the project board and column of your choice.
 
 The complete code for this GitHub action can be found at the bottom of this page. You'll have to edit the following parts to make it work for your repository and align with what you are trying to achieve.
 
-1. Below you can see an example of the issue template file. Note that the action won't work if the label field is empty. Also note the path this file is stored in.&#x20;
+1. Below you can see an example of the issue template file. Note that the action won't work if the label field is empty. Also note the path this file is stored in.
 
 ![Issue template](<../../.gitbook/assets/Untitled (3) (1).png>)
 
@@ -30,7 +36,7 @@ Below is where you edit the path that points to your issue template file. Notice
 
 ![](<../../.gitbook/assets/Untitled (1) (1).png>)
 
-At the bottom of the yaml file you'll notice the fields where you can edit  the project number and column name.
+At the bottom of the yaml file you'll notice the fields where you can edit the project number and column name.
 
 ```
           - [ ] Prepare Town Hall slides for Wednesday
@@ -49,7 +55,7 @@ At the bottom of the yaml file you'll notice the fields where you can edit  the 
   - cron: 0 0 * * 3   # cron sets the time the workflow gets activated
 ```
 
-Next up is the date you want displayed in your Issue title. Line 2 creates an env variable "DAY" to use later in your workflow. Note that the '7 days' ads the number of days to todays date. So the result will be today +7 days. You can do some more reading on the  format here [https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3](https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3)
+Next up is the date you want displayed in your Issue title. Line 2 creates an env variable "DAY" to use later in your workflow. Note that the '7 days' ads the number of days to todays date. So the result will be today +7 days. You can do some more reading on the format here [https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3](https://python.plainenglish.io/manipulating-date-time-data-with-the-datetime-module-4ac93f9db1c3)
 
 ```
     - name: Issue date
@@ -68,9 +74,9 @@ Next up is the date you want displayed in your Issue title. Line 2 creates an en
           ### Townhall slides - ${{ env.DAY }}
 ```
 
-5\. You can find out how to create a personal access token <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](../general-introduction/pat-token.md)<mark style="color:blue;">.</mark>
+5\. You can find out how to create a personal access token <mark style="color:blue;">\*\*\*\*</mark> [<mark style="color:blue;">**here**</mark>](../general-introduction/pat-token.md)<mark style="color:blue;">.</mark>
 
-Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:      &#x20;
+Your action is ready to test. You'll notice in the complete yaml file on line 6 there is a # before workflow\_dispatch:
 
 Remove the # to manually run the action in GitHub actions. Indentation is very important in yaml so make sure the workflow\_dispatch: starts at the same indent as schedule:
 
