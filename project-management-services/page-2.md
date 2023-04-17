@@ -9,10 +9,3 @@ Open Mind
 Listening
 
 Not prescriptive
-
-
-
-
-
-
-

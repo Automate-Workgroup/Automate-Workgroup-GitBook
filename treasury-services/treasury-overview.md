@@ -1,4 +1,4 @@
-# Treasury Overview
+# Treasury
 
 ## Our Approach
 
