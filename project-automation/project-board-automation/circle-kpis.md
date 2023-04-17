@@ -10,21 +10,19 @@ This GitHub action tracks the status of issues on a Project Board. It produces a
 
 ![Example Dashboard](<../../.gitbook/assets/Untitled (1) (1) (1).png>)
 
-In the workflow directory in your main branch you will create the yml file for your Github action. You can copy the complete yml at the bottom of this page and go through the following steps to setup the action as you see fit.&#x20;
+In the workflow directory in your main branch you will create the yml file for your Github action. You can copy the complete yml at the bottom of this page and go through the following steps to setup the action as you see fit.
 
 1. Be sure to ad workflow dispatch so you can test your action. For this action you would also most likely set up a cron schedule. There are four actions happening here. First your repo gets checked, second the gh\_pages branch gets checked and a working directory gets set to 'out', third the dashboard gets generated and fourth the dashboard gets published. After checking out your repo the action looks for a branch called "gh\_pages". If it doesn't exist be sure to create it. Files in the gh\_pages branch get published to github pages by default. This GitHub action produces and updates the necessary files in this branch every time it runs.
 
 ![](../../.gitbook/assets/image\_2022-05-12\_155200551.png)
 
-2\. Next up is generating the dashboard.  There are 2 parts here. The config and the widgets. In the config section you set the output path and filename of the HTML file that gets generated. You can also set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. It starts with a title, description and then the type of widget. Each widget has its own "key value" pairs that you can change to display the data you want. The issue\_query field is used to pull the data from the issues in the repo. In the issue\_query field after the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" and "created:>\{{ date("-30 days") \}}" This is to pull all issues that were created in the last 30 days. For more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
+2\. Next up is generating the dashboard. There are 2 parts here. The config and the widgets. In the config section you set the output path and filename of the HTML file that gets generated. You can also set up variables as well as a function that you can use later in the action. Our first widget on this dashboard is a number widget. It starts with a title, description and then the type of widget. Each widget has its own "key value" pairs that you can change to display the data you want. The issue\_query field is used to pull the data from the issues in the repo. In the issue\_query field after the "repo:" you basically enter your organization or profile name and then after the "/" the name of the repo. After that you will notice "is:issue" and "created:>\{{ date("-30 days") \}}" This is to pull all issues that were created in the last 30 days. For more info on GitHub queries go to this [link](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). There are quite a few queries you can use in this field to find the data you are looking for.
 
 ![Config and widgets](../../.gitbook/assets/image\_2022-05-13\_075243514.png)
 
 3\. The next widget we have is the graph widget. You will notice 2 new queries in the issue\_query field. "is:open" and "label: "General Voters". These queries are looking for OPEN issues with the label "General Voters". If you want to use the function you created in the config section to change the color of the graphs you can enter this into the color field instead ...
 
-color: '\{{ userdata.color\_func(value) \}}'  &#x20;
-
-
+color: '\{{ userdata.color\_func(value) \}}'
 
 ![Graph Widget](../../.gitbook/assets/image\_2022-05-13\_082442201.png)
 
@@ -188,7 +186,6 @@ API
 Training
 Blog
 About
-
 ```
 
 ## Training
@@ -206,10 +203,6 @@ Funded by Open Source Training
 | Implementation in production | 1     | $ 55                 |
 | Documentation                | 2     | 110                  |
 | **Totals**                   | **7** | **$ 495**            |
-
-
-
-
 
 ## Sign-Off
 

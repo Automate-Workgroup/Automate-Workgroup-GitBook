@@ -26,6 +26,7 @@
 * [General Introduction](project-automation/general-introduction/README.md)
   * [How this works](project-automation/general-introduction/how-this-works.md)
   * [Introduction to GitHub Actions](project-automation/general-introduction/introduction-to-github-actions.md)
+  * [GitHub CLI](project-automation/general-introduction/github-cli.md)
   * [How to create a PAT token (Personal Access Token)](project-automation/general-introduction/pat-token.md)
 * [Treasury Automation](project-automation/treasury-automation/README.md)
   * [Treasury Action](project-automation/treasury-automation/treasury-action.md)

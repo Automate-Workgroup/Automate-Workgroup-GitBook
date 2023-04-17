@@ -10,9 +10,13 @@ A joint project between Treasury Guild & QADAO
 
 ## Overview <a href="#docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf" id="docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf"></a>
 
-Introduction to who we are - We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
+## What we do
+
+&#x20;This GitBook documents colloboration on governance automation and communication between Treasury Guild and QADAO.&#x20;
 
 ## Who we are
+
+We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
 
 ### Treasury Guild
 
