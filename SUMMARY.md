@@ -75,3 +75,7 @@
 ## gimbalabs
 
 * [Plutus PBL VM environment](gimbalabs/plutus-pbl-vm-environment.md)
+
+## Treasury Advisory Service F9 Proposal
+
+* [Treasury Advisory Service Proposal](treasury-advisory-service-f9-proposal/treasury-advisory-service-proposal.md)
