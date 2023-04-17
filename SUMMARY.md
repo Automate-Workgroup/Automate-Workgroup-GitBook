@@ -33,7 +33,7 @@
 
 ## Governance Materials
 
-* [Page 1](governance-materials/page-1.md)
+* [General Introduction](governance-materials/general-introduction.md)
 
 ## Project Administration
 
