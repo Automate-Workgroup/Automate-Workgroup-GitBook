@@ -8,8 +8,6 @@ coverY: 0
 
 A joint project between Treasury Guild & QADAO
 
-## Overview <a href="#docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf" id="docs-internal-guid-5ebc2ace-7fff-e600-c514-ec4c61c483bf"></a>
-
 ## What we do
 
 &#x20;This GitBook documents colloboration on governance automation and communication between Treasury Guild and QADAO.&#x20;
