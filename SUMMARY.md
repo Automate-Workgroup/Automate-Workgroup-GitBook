@@ -31,6 +31,10 @@
   * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
   * [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
 
+## Governance Materials
+
+* [Page 1](governance-materials/page-1.md)
+
 ## Project Administration
 
 * [Fund 6](project-administration/fund-6/README.md)
