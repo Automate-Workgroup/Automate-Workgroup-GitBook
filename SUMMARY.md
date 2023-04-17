@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Treasury Advisory Service](README.md)
+* [Treasury & Quality Services](README.md)
   * [Setup Meeting](readme/setup-meeting.md)
   * [The Formal Agreement](readme/the-formal-agreement.md)
 

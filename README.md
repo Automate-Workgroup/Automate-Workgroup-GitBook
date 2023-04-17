@@ -1,12 +1,10 @@
 ---
-description: Welcome to Treasury Advisory Service
+description: A joint project between Treasury Guild & QADAO
 cover: .gitbook/assets/graph.jpg
 coverY: 0
 ---
 
-# Treasury Advisory Service
-
-A joint project between Treasury Guild & QADAO
+# Treasury & Quality Services
 
 ## What we do
 
