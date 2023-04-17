@@ -18,7 +18,7 @@
   * [Meeting Agenda Action](project-automation/project-board-automation/meeting-agenda.md)
   * [API Connector](project-automation/project-board-automation/api-connector.md)
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
-  * [Meeting Automation](project-automation/project-board-automation/meeting-automation.md)
+  * [Meeting Schedule Automation](project-automation/project-board-automation/meeting-schedule-automation.md)
 
 ## Educational Materials
 
