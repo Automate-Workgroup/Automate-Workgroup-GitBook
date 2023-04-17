@@ -8,7 +8,9 @@ coverY: 0
 
 ## What we do
 
-&#x20;This GitBook documents colloboration on governance automation and communication between Treasury Guild and QADAO.&#x20;
+&#x20;This GitBook documents collaboration on governance automation and communication between Treasury Guild and QADAO.&#x20;
+
+We have have worked on a number of projects together including ..
 
 ## Who we are
 
