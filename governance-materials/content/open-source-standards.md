@@ -1,5 +1,5 @@
 ---
-description: Draft guidance for Clients on OS Licenses
+description: To be drafted as part of ABC of Governance
 ---
 
 # Open Source Standards

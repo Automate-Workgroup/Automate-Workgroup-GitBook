@@ -21,7 +21,6 @@
 
 ## Educational Materials
 
-* [Open Source Standards](educational-materials/open-source-standards.md)
 * [GitBook](educational-materials/gitbook/README.md)
   * [How to set up a GitBook](open-source-training/how-to-set-up-a-gitbook.md)
   * [Editing a GitBook](open-source-training/editing-a-gitbook.md)
@@ -36,6 +35,7 @@
 * [General Introduction](governance-materials/general-introduction.md)
 * [Content](governance-materials/content/README.md)
   * [Decentralisation](governance-materials/content/decentralisation.md)
+  * [Open Source Standards](governance-materials/content/open-source-standards.md)
 
 ## Project Administration
 
