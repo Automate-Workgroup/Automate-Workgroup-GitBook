@@ -34,9 +34,10 @@
 ## Project Administration
 
 * [Fund 6](project-administration/fund-6/README.md)
-  * [F6 Distributed Auditability](project-administration/fund-6/f6-distributed-auditability/README.md)
+  * [F6 Distributed Auditability](proposal-reporting/f6-distributed-auditability.md)
     * [Close Out Report](project-administration/fund-6/f6-distributed-auditability/close-out-report.md)
-  * [F6 Open Source Training](proposal-reporting/f6-open-source-training.md)
+  * [F6 Open Source Training](project-administration/fund-6/f6-open-source-training/README.md)
+    * [Close Out Report](project-administration/fund-6/f6-open-source-training/close-out-report.md)
 * [Fund 8](project-administration/fund-8/README.md)
   * [F8 ABC of Governance](project-administration/fund-8/f8-abc-of-governance/README.md)
     * [Monthly Reports](project-administration/fund-8/f8-abc-of-governance/monthly-reports.md)
