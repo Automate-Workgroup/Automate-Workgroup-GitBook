@@ -34,6 +34,7 @@
 ## Governance Materials
 
 * [General Introduction](governance-materials/general-introduction.md)
+* [Content](governance-materials/content.md)
 
 ## Project Administration
 
