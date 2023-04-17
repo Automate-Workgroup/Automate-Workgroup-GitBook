@@ -34,7 +34,8 @@
 ## Governance Materials
 
 * [General Introduction](governance-materials/general-introduction.md)
-* [Content](governance-materials/content.md)
+* [Content](governance-materials/content/README.md)
+  * [Decentralisation](governance-materials/content/decentralisation.md)
 
 ## Project Administration
 
