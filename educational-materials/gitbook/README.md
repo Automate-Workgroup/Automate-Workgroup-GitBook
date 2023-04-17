@@ -1,3 +1,0 @@
-# GitBook
-
-GitBook

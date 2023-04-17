@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Treasury & Quality Services](README.md)
+* [GitBook](gitbook/README.md)
+  * [How to set up a GitBook](gitbook/how-to-set-up-a-gitbook.md)
+  * [Editing a GitBook](gitbook/editing-a-gitbook.md)
+  * [How to build a Challenge Team GitBook](gitbook/how-to-build-a-challenge-team-gitbook.md)
+* [GitHub](github/README.md)
+  * [Circle Admin GitHub Training](github/circle-admin-github-training.md)
+  * [Catalyst Circle Prioritized Problems](github/catalyst-circle-prioritized-problems.md)
+  * [Circle V3 GitHub Problem Board](github/circle-v3-github-problem-board.md)
 
 ## Project Automation
 
@@ -19,23 +27,12 @@
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
   * [Meeting Schedule Automation](project-automation/project-board-automation/meeting-schedule-automation.md)
 
-## Educational Materials
-
-* [GitBook](educational-materials/gitbook/README.md)
-  * [How to set up a GitBook](open-source-training/how-to-set-up-a-gitbook.md)
-  * [Editing a GitBook](open-source-training/editing-a-gitbook.md)
-  * [How to build a Challenge Team GitBook](open-source-training/how-to-build-a-challenge-team-gitbook.md)
-* [GitHub](educational-materials/github/README.md)
-  * [Circle Admin GitHub Training](open-source-training/circle-admin-github-training.md)
-  * [Catalyst Circle Prioritized Problems](open-source-training/catalyst-circle-prioritized-problems.md)
-  * [Circle V3 GitHub Problem Board](open-source-training/circle-v3-github-problem-board.md)
-
 ## Governance Materials
 
 * [General Introduction](governance-materials/general-introduction.md)
 * [Content](governance-materials/content/README.md)
   * [Decentralisation](governance-materials/content/decentralisation.md)
-  * [Open Source Standards](governance-materials/content/open-source-standards.md)
+  * [Open Source Standards](educational-materials/open-source-standards.md)
 
 ## Project Administration
 
