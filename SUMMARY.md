@@ -1,25 +1,6 @@
 # Table of contents
 
 * [Treasury & Quality Services](README.md)
-  * [Setup Meeting](readme/setup-meeting.md)
-  * [The Formal Agreement](readme/the-formal-agreement.md)
-
-## Treasury Services
-
-* [Treasury](treasury-services/treasury-overview.md)
-  * [Funded proposal budgets](treasury-services/treasury/funded-proposal-budgets.md)
-  * [Manage wallets](treasury-services/treasury/manage-wallets.md)
-  * [Treasury analysis](treasury-services/treasury/treasury-analysis.md)
-
-## Project Management Services
-
-* [Project Management](project-management-services/page-2.md)
-  * [Human Resources](project-management-services/project-management/human-resources.md)
-  * [Agendas / Meetings](project-management-services/project-management/agendas-meetings.md)
-  * [Facilitation](project-management-services/project-management/facilitation.md)
-  * [Deliverables](project-management-services/project-management/deliverables.md)
-  * [Documentation](project-management-services/project-management/documentation.md)
-  * [Communication](project-management-services/project-management/communication.md)
 
 ## Project Automation
 
@@ -79,3 +60,16 @@
 ## Treasury Advisory Service F9 Proposal
 
 * [Treasury Advisory Service Proposal](treasury-advisory-service-f9-proposal/treasury-advisory-service-proposal.md)
+* [Setup Meeting](treasury-advisory-service-f9-proposal/setup-meeting.md)
+* [The Formal Agreement](treasury-advisory-service-f9-proposal/the-formal-agreement.md)
+* [Project Management](treasury-advisory-service-f9-proposal/page-2/README.md)
+  * [Human Resources](treasury-advisory-service-f9-proposal/page-2/human-resources.md)
+  * [Agendas / Meetings](treasury-advisory-service-f9-proposal/page-2/agendas-meetings.md)
+  * [Facilitation](treasury-advisory-service-f9-proposal/page-2/facilitation.md)
+  * [Deliverables](treasury-advisory-service-f9-proposal/page-2/deliverables.md)
+  * [Documentation](treasury-advisory-service-f9-proposal/page-2/documentation.md)
+  * [Communication](treasury-advisory-service-f9-proposal/page-2/communication.md)
+* [Treasury](treasury-advisory-service-f9-proposal/treasury-overview/README.md)
+  * [Funded proposal budgets](treasury-advisory-service-f9-proposal/treasury-overview/funded-proposal-budgets.md)
+  * [Manage wallets](treasury-advisory-service-f9-proposal/treasury-overview/manage-wallets.md)
+  * [Treasury analysis](treasury-advisory-service-f9-proposal/treasury-overview/treasury-analysis.md)
