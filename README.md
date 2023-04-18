@@ -4,11 +4,11 @@ cover: .gitbook/assets/graph.jpg
 coverY: 0
 ---
 
-# Treasury & Quality Services
+# Automate, Educate, Communicate !
 
 ## What we do
 
-&#x20;This GitBook documents collaboration on governance automation and communication between Treasury Guild and QADAO.&#x20;
+This GitBook documents collaboration on governance automation, education and communication between Treasury Guild and QADAO.&#x20;
 
 We have have worked on a number of projects together including ..
 
