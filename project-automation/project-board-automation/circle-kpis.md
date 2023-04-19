@@ -196,9 +196,9 @@ About
 
 ## Training
 
-Funded by Open Source Training
+Funded by Distributed Auditability
 
-[https://cardano.ideascale.com/c/idea/368678](https://cardano.ideascale.com/c/idea/368678)
+[https://cardano.ideascale.com/c/idea/58679](https://cardano.ideascale.com/c/idea/58679)
 
 ## Charging / Budget (Example)
 
@@ -212,7 +212,7 @@ Funded by Open Source Training
 
 ## Sign-Off
 
-Where it is in production and who signed it off
+Where it is in production
 
 {% embed url="https://cc-treasury.github.io/CircleKPIs" %}
 Circle KPIs
