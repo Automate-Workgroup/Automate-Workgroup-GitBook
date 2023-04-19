@@ -5,9 +5,9 @@ description: Town Hall Slides Automation
 # Town Hall Slides
 
 {% hint style="info" %}
-Developed by : Andre Diamond
+Developed by : André Diamond
 
-Funded by -
+Funded by - Fund 6 Distributed Auditability
 {% endhint %}
 
 ## Overview
