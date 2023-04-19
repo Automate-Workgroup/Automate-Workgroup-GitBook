@@ -4,6 +4,12 @@ description: Automation that adds label to all newly created issues
 
 # Add label to newly created issues
 
+{% hint style="info" %}
+Developed by : André Diamond
+
+Funded by - Fund 6 Distributed Auditability
+{% endhint %}
+
 ## Overview
 
 This is a simple action that adds a label to all newly created issues. For this project we will only add tasks that can be paid to the project board. So we need all new issues to have ADA Due. We will change the "ADA due" to "ADA paid" at a later stage, maybe in another action.
