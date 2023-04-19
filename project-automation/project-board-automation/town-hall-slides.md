@@ -143,9 +143,9 @@ jobs:
 
 ## Training
 
-Funded by Open Source Training
+Funded by Distributed Auditability
 
-[https://cardano.ideascale.com/c/idea/368678](https://cardano.ideascale.com/c/idea/368678)
+[https://cardano.ideascale.com/c/idea/58679](https://cardano.ideascale.com/c/idea/58679)
 
 ## Charging/Budget
 
