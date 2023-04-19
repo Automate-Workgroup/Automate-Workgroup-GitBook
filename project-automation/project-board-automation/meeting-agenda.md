@@ -7,7 +7,7 @@ description: Project Board Agenda Automation
 {% hint style="info" %}
 Developed by : André Diamond
 
-Funded by - Fund 8 Automate, Educate, Communicate Proposal
+Funded by - Fund 8 Automate, Educate, Communicate
 {% endhint %}
 
 ## Overview
