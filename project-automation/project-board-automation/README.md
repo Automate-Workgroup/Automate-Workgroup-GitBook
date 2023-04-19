@@ -1,3 +1,3 @@
-# Project Board Automation
+# Automations
 
-Project Board Automation
+Project Management Automation
