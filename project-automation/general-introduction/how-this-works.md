@@ -6,10 +6,8 @@
 
 ## Overview
 
-We are developing an integrated
+We are developing integrated
 
-* Treasury Guild system
 * PM Automation - project boards, tasks, commitments, deliverables
-* Reporting - how treasury and PM automation fits into monthly reporting
+* Reporting - how Project Management Automation fits into monthly reporting
 * Education - how to describe all the above as a service --> Clients
-
