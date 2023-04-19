@@ -7,7 +7,7 @@ description: Automation that adds label to all newly created issues
 {% hint style="info" %}
 Developed by : André Diamond
 
-Funded by - Fund 6 Distributed Auditability
+Funded by - Fund 8 Automate, Educate, Communicate
 {% endhint %}
 
 ## Overview
