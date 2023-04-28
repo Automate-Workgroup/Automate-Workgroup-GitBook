@@ -58,6 +58,7 @@
     * [F8 Automate - Jan 2023 report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-5.md)
     * [F8 Automate - Feb 2023 report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-6.md)
     * [F8 Automate - March 2023 report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-7.md)
+    * [F8 Automate - April 2023 report](project-administration/fund-8/f8-automate-educate-communicate/f8-automate-may-report-1-1-1-8.md)
     * [Close Out Report](project-administration/fund-8/f8-automate-educate-communicate/close-out-report.md)
 * [Meetings](proposal-reporting/meetings.md)
 
