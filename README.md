@@ -24,6 +24,8 @@ Treasury Guild offers a 1 to 1 accounting and treasury service to projects withi
 
 Treasury Guild offers the creation, organization and management of wallets. Fast transactions 24/7. We document all transactions in Github and display them in a specially created Dashboard for your project. All transactions are stored on the Blockchain. If you want more transaction privacy, we can arrange that too.
 
+If your project needs a platform like Dework, our team does well on the Dework platform. The transactions we do are not conditioned only by single payments, but we also do bulk payments, up to 100 transactions in one payment.
+
 
 
 {% embed url="https://www.treasuryguild.io/" %}
