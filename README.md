@@ -22,7 +22,7 @@ We are a team with combined 70 years experience in accounting, blockchain govern
 
 Treasury Guild offers a 1 to 1 accounting and treasury service to projects within the Catalyst ecosystem. If you are looking for Treasury Services go [here](https://www.treasuryguild.io/service/). Below you will find our website, Transaction GitBooks and Proposals (need to update proposals page)&#x20;
 
-this is a test
+Treasury Guild offers the creation, organization and management of wallets. Fast transactions 24/7. We document all transactions in Github and display them in a specially created Dashboard for your project. All transactions are stored on the Blockchain. If you want more transaction privacy, we can arrange that too.
 
 
 
