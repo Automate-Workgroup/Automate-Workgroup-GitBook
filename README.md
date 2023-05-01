@@ -12,6 +12,8 @@ This GitBook documents collaboration on governance automation, education and com
 
 We have have worked on a number of projects together including ..
 
+<mark style="color:red;">Test</mark>
+
 ## Who we are
 
 We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
