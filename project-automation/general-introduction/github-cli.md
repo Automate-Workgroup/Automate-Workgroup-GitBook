@@ -4,6 +4,8 @@ description: GitHub Command Line Interface
 
 # GitHub CLI
 
+<mark style="color:red;">Add who authored this section</mark>
+
 ## GitHub CLI
 
 For documentation on the GitHub Command Line Interface see here [https://cli.github.com/](https://cli.github.com/)

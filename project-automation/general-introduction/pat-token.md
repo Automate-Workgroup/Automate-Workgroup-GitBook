@@ -4,11 +4,13 @@ description: Create Pat token and place in action secret
 
 # How to create a PAT token (Personal Access Token)
 
+<mark style="color:red;">Add author of this section</mark>
+
 ## Overview
 
 Personal Access Tokens are used to give GitHub Actions the power to do things that only the user can normally do. These tokens usually have an expiry date for safety reasons. Don't share your PAT token with anyone as it gives them direct access to your account.
 
-&#x20;To create a personal access token click on the profile button in the top right and go to settings.
+To create a personal access token click on the profile button in the top right and go to settings.
 
 ![](<../../.gitbook/assets/Untitled (8).png>)
 

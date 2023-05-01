@@ -12,13 +12,19 @@ This GitBook documents collaboration on governance automation, education and com
 
 We have have worked on a number of projects together including ..
 
+<mark style="color:red;">List of projects incl F6 and F8 proposal</mark>
+
 ## Who we are
 
 We are a team with combined 70 years experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
 
 ### Treasury Guild
 
-Treasury Guild offers a 1 to 1 accounting and treasury service to projects within the Catalyst ecosystem. If you are looking for Treasury Services go [here](https://www.treasuryguild.io/service/). Below you will find our website, Transaction GitBooks and Proposals (need to update proposals page)
+Treasury Guild offers a 1 to 1 accounting and treasury service to projects within the Catalyst ecosystem. If you are looking for Treasury Services go [here](https://www.treasuryguild.io/service/). Below you will find our website, Transaction GitBooks and Proposals (need to update proposals page)&#x20;
+
+Test for new text
+
+
 
 {% embed url="https://www.treasuryguild.io/" %}
 
