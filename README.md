@@ -22,7 +22,7 @@ We are a team with combined 70 years experience in accounting, blockchain govern
 
 Treasury Guild offers a 1 to 1 accounting and treasury service to projects within the Catalyst ecosystem. If you are looking for Treasury Services go [here](https://www.treasuryguild.io/service/). Below you will find our website, Transaction GitBooks and Proposals (need to update proposals page)&#x20;
 
-Test for new text
+this is a test
 
 
 
