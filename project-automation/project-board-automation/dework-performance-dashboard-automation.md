@@ -57,6 +57,18 @@ Deploy the site using your favourite provider. If you have never deployed a site
 [how-to-deploy-to-neltify.md](../general-introduction/how-to-deploy-to-neltify.md)
 {% endcontent-ref %}
 
+## Step 5 - Extra things to note
+
+You can also add some extra stats yourself.
+
+![](<../../.gitbook/assets/image (5).png>)
+
+Scroll down to line 165 in the Home.vue file. This will update the number for tasks that have the documentation tag. If you dont have tasks with that label it will display 0. To capture a different label change "documentation" in "everyTask.tags.documentation.tasks" to the label you want to capture. To view all the available labels. Right click on the page and inspect it. Reload and check the console. You will see a list of labels.
+
+Scroll down to line 435 and change the text "Documentation made" to what ever label you want to capture.
+
+![](<../../.gitbook/assets/image (1).png>)
+
 ## Charging
 
 | Task               | Hours | Charge @ $55 an hour |
