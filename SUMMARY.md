@@ -29,6 +29,7 @@
   * [API Connector](project-automation/project-board-automation/api-connector.md)
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
   * [Dework Performance Dashboard Automation](project-automation/project-board-automation/dework-performance-dashboard-automation.md)
+  * [Dework csv Exporter Automation](project-automation/project-board-automation/dework-csv-exporter-automation.md)
 
 ## Governance Materials
 

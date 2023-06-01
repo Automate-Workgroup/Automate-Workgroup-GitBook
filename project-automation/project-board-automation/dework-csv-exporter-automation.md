@@ -1,10 +1,10 @@
 ---
 description: >-
-  A Javascript tool to assist and automate content for monthly reports based on
-  Dework tasks
+  A Javascript tool to assist in exporting dework bounty boards. Especially
+  useful if you are managing many boards at a time.
 ---
 
-# Dework Performance Dashboard Automation
+# Dework csv Exporter Automation
 
 {% hint style="info" %}
 Developed by : André Diamond
@@ -14,11 +14,11 @@ Funded by - Fund 8 Automate, Educate, Communicate
 
 Live demo
 
-{% embed url="https://dework-performance-dashboard.netlify.app" %}
+{% embed url="https://dework-exporter.netlify.app" %}
 
 ## Overview
 
-The following tool was built with Vue.js . It makes use of Dework's API to get all task information from a specific workspace. This workspace id can be changed in the code and will be explained in this documentation. Once the task information is accessed it gets curated and processed to prepare it for charts and a chatGPT prompt. The dashboard has 4 charts and a button to create a chatGPT promt. If you click the button the prompt gets copied into your clipboard and you can then just paste it in chatGPT. There are 2 other stats... Total tasks done and documentation made. We will explore in the documentation how to change these stats. The dework spaces used in this documentation can be found here - [https://app.dework.xyz/test-157/main-project-2951](https://app.dework.xyz/test-157/main-project-2951). The tasks on the bounty boards have links to github commits if you want to dive deeper into some of the changes made to prep the code for this documentation.&#x20;
+The following tool was built with Vue.js . It makes use of Dework's API to get all task information from a specific workspace. This workspace ids can be changed in the code and will be explained in this documentation. The tool looks at all the tasks in review and counts the number of tasks with the audited label and without the audited label. It has a button that links to the bounty board and a button to export the bounty board. This is useful if you want review or pay tasks. Especially if you are managing many bounty boards. The dework spaces used in this documentation can be found here - [https://app.dework.xyz/test-157/main-project-2951](https://app.dework.xyz/test-157/main-project-2951). The tasks on the bounty boards have links to github commits if you want to dive deeper into some of the changes made to prep the code for this documentation.&#x20;
 
 {% hint style="info" %}
 Disclaimer\
@@ -43,11 +43,15 @@ To find out what your workspace id is follow these guidelines&#x20;
 [how-to-get-dework-workspace-id.md](../general-introduction/how-to-get-dework-workspace-id.md)
 {% endcontent-ref %}
 
-## Step 3 - Change Workspace id in code
+## Step 3 - Change Org and Workspace id in code
 
-You can change the workspace and workgroup name in the code in the Home.vue file. Right at the top of the file you will find these 2 variables
+You can change the organization and workgroup ids in the code in the Home.vue file. Right at the top of the file you will find these variables. \
+\
+You can change "ACEAMainProject" to anything you want and then the id which looks like this "65345970-fcb3-4962-be04-c1a3276157bd".&#x20;
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
+
+When you change the organiztion id in  -  const orgACE = 'd1ce833b-ab25-4a3b-a0a1-2fbc2077b8cc' only change the id, DO NOT change the "orgACE" as it will lead to bugs if you do not change it everywhere it features.
 
 ## Step 4 - Deploy the webpage
 
