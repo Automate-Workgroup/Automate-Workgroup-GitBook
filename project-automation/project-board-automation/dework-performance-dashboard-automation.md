@@ -74,8 +74,8 @@ Scroll down to line 435 and change the text "Documentation made" to what ever la
 | Task               | Hours | Charge @ $55 an hour |
 | ------------------ | ----- | -------------------- |
 | Coding             |       |                      |
-| Dework space setup |       |                      |
-| Documentation      |       |                      |
+| Dework space setup | 1     | 55                   |
+| Documentation      | 1     | 55                   |
 |                    |       |                      |
 | Totals             |       |                      |
 
