@@ -18,7 +18,7 @@ Follow these steps to access your Dework Workspace id
 
 To find out what your workspace id is go to the project board in Dework. Right click on the page and select inspect element - like so.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ## Step 2 - Select Network and refresh
 

@@ -63,15 +63,17 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 ## Step 5 - Extra things to note
 
-You can also add some extra stats yourself.
+If you want to change the name above the table (currently - Automate, Educate, Communicate (Samples)) go to line 164 in the Home.vue file and change the text between the \<tr> brackets.
 
-![](<../../.gitbook/assets/image (5).png>)
+I![](../../.gitbook/assets/image.png)
 
-Scroll down to line 165 in the Home.vue file. This will update the number for tasks that have the documentation tag. If you dont have tasks with that label it will display 0. To capture a different label change "documentation" in "everyTask.tags.documentation.tasks" to the label you want to capture. To view all the available labels. Right click on the page and inspect it. Reload and check the console. You will see a list of labels. To avoid bugs, try using one word labels or if its 2 words connect them with a dash like so "tool-development". Do these label changes in dework and then look at the console again to see which labels you can use in the code.
+You can also add more bounty boards, just add more of the following below line 15 in the Home.vue file -&#x20;
 
-Scroll down to line 435 and change the text "Documentation made" to what ever label you want to capture.
+```vue
+ACEDeworkcsvExport: { id: '3ace81a8-6658-4c41-a480-a16c7f0dc258', name: '', slug: '', tasks: [] },
+```
 
-![](<../../.gitbook/assets/image (1).png>)
+and change the "ACEDeworkcsvExport" and id number.
 
 ## Charging
 
