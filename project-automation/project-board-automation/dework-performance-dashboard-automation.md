@@ -41,3 +41,7 @@ You can change the workspace and workgroup name in the code in the Home.vue file
 
 ![](<../../.gitbook/assets/image (4).png>)
 
+## Step 4 - Deploy the webpage
+
+Deploy the site using your favourite provider. If you have never deployed a site before follow these guidelines.
+
