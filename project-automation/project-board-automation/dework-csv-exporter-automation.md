@@ -79,11 +79,11 @@ and change the "ACEDeworkcsvExport" and id number.
 
 | Task               | Hours | Charge @ $55 an hour |
 | ------------------ | ----- | -------------------- |
-| Coding             |       |                      |
+| Coding             | 6     | 330                  |
 | Dework space setup | 1     | 55                   |
 | Documentation      | 1     | 55                   |
 |                    |       |                      |
-| Totals             |       |                      |
+| Totals             |       | 440                  |
 
 ## Where is this in production
 
