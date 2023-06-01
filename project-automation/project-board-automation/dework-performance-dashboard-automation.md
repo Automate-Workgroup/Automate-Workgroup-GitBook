@@ -63,7 +63,7 @@ You can also add some extra stats yourself.
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-Scroll down to line 165 in the Home.vue file. This will update the number for tasks that have the documentation tag. If you dont have tasks with that label it will display 0. To capture a different label change "documentation" in "everyTask.tags.documentation.tasks" to the label you want to capture. To view all the available labels. Right click on the page and inspect it. Reload and check the console. You will see a list of labels.
+Scroll down to line 165 in the Home.vue file. This will update the number for tasks that have the documentation tag. If you dont have tasks with that label it will display 0. To capture a different label change "documentation" in "everyTask.tags.documentation.tasks" to the label you want to capture. To view all the available labels. Right click on the page and inspect it. Reload and check the console. You will see a list of labels. To avoid bugs, try using one word labels or if its 2 words connect them with a dash like so "tool-development".
 
 Scroll down to line 435 and change the text "Documentation made" to what ever label you want to capture.
 
