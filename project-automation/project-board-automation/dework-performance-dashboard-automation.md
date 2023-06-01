@@ -35,7 +35,7 @@ and set up your working environment - If you dont know how to - Follow this guid
 [how-to-clone-a-github-repo.md](../general-introduction/how-to-clone-a-github-repo.md)
 {% endcontent-ref %}
 
-## Step 2 - Change Workspace ID
+## Step 2 - Find your Workspace ID
 
 To find out what your workspace id is follow these guidelines&#x20;
 
