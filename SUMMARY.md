@@ -18,6 +18,7 @@
   * [GitHub CLI](project-automation/general-introduction/github-cli.md)
   * [How to create a PAT token (Personal Access Token)](project-automation/general-introduction/pat-token.md)
   * [Use of Javascript](project-automation/general-introduction/use-of-javascript.md)
+  * [How to get Dework Workspace id](project-automation/general-introduction/how-to-get-dework-workspace-id.md)
 * [Automations](project-automation/project-board-automation/README.md)
   * [Town Hall Slides](project-automation/project-board-automation/town-hall-slides.md)
   * [Circle KPIs](project-automation/project-board-automation/circle-kpis.md)
@@ -26,7 +27,6 @@
   * [API Connector](project-automation/project-board-automation/api-connector.md)
   * [dework Project Board](project-automation/project-board-automation/dework-project-board.md)
   * [Dework Performance Dashboard Automation](project-automation/project-board-automation/dework-performance-dashboard-automation.md)
-  * [Dework csv Exporter Automation](project-automation/project-board-automation/dework-csv-exporter-automation.md)
 
 ## Governance Materials
 

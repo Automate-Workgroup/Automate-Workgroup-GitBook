@@ -35,5 +35,5 @@ To find out what your workspace id is go to the project board in Dework. Right c
 
 Next click on Network and refresh the page.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
