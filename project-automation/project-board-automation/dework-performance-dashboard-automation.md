@@ -57,3 +57,11 @@ Deploy the site using your favourite provider. If you have never deployed a site
 [how-to-deploy-to-neltify.md](../general-introduction/how-to-deploy-to-neltify.md)
 {% endcontent-ref %}
 
+## Charging
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
