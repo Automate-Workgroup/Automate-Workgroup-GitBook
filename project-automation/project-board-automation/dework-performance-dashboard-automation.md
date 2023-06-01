@@ -25,7 +25,11 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 ## Step 1 - Clone Repo
 
 Clone this repo - [https://github.com/Andre-Diamond/dework-performance-dashboard](https://github.com/Andre-Diamond/dework-performance-dashboard)\
-Set up your working environment - If you dont know how to - Follow this guide -&#x20;
+Set up your working environment - If you dont know how to - Follow this guide&#x20;
+
+{% content-ref url="../general-introduction/how-to-clone-a-github-repo.md" %}
+[how-to-clone-a-github-repo.md](../general-introduction/how-to-clone-a-github-repo.md)
+{% endcontent-ref %}
 
 ## Step 2 - Change Workspace ID
 
@@ -44,4 +48,8 @@ You can change the workspace and workgroup name in the code in the Home.vue file
 ## Step 4 - Deploy the webpage
 
 Deploy the site using your favourite provider. If you have never deployed a site before follow these guidelines.
+
+{% content-ref url="../general-introduction/how-to-deploy-to-neltify.md" %}
+[how-to-deploy-to-neltify.md](../general-introduction/how-to-deploy-to-neltify.md)
+{% endcontent-ref %}
 
