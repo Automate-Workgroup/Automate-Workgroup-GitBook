@@ -2,7 +2,7 @@
 description: A Guide to accessing your dework workspace id
 ---
 
-# How to get Dework Workspace id
+# How to get your Dework Workspace id
 
 {% hint style="info" %}
 Written by : André Diamond
@@ -32,5 +32,5 @@ Select graphql?op=GetWorkspaceTasksQuery and look on the right for workspace id
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-This string - d815594d-0286-448f-97fe-b157ddb83c69 - is the workspace id for the project board in this example.
+This string - "d815594d-0286-448f-97fe-b157ddb83c69" - is the workspace id for the project board in this example.
 

@@ -39,8 +39,8 @@ and set up your working environment - If you dont know how to - Follow this guid
 
 To find out what your workspace id is follow these guidelines&#x20;
 
-{% content-ref url="../general-introduction/how-to-get-your-dework-workspace-id.md" %}
-[how-to-get-your-dework-workspace-id.md](../general-introduction/how-to-get-your-dework-workspace-id.md)
+{% content-ref url="../general-introduction/how-to-get-dework-workspace-id.md" %}
+[how-to-get-dework-workspace-id.md](../general-introduction/how-to-get-dework-workspace-id.md)
 {% endcontent-ref %}
 
 ## Step 3 - Change Workspace id in code
