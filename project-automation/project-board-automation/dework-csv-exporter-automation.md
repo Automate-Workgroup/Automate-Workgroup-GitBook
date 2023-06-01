@@ -2,5 +2,5 @@
 description: A Javascript tool to automate meeting creation
 ---
 
-# Meeting Schedule Automation
+# Dework csv Exporter Automation
 
