@@ -22,7 +22,18 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 
 {% endhint %}
 
-## Step 1
+## Step 1 - Clone Repo
 
 Clone this repo - [https://github.com/Andre-Diamond/dework-performance-dashboard](https://github.com/Andre-Diamond/dework-performance-dashboard)\
 Set up your working environment - If you dont know how to - Follow this guide -&#x20;
+
+## Step 2 - Change Workspace ID
+
+To find out what your workspace id is go to the project board in Dework. Right click on the page and select inspect element - like so.
+
+![](../../.gitbook/assets/image.png)
+
+Next click on Network and refresh the page.
+
+![](<../../.gitbook/assets/image (1).png>)
+
