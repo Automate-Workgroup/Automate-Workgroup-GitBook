@@ -87,5 +87,5 @@ and change the "ACEDeworkcsvExport" and id number.
 
 ## Where is this in production
 
-Governance Guild is using it to assist with monthly reports. Unfortunately we can't share the link yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
+Treasury Guild is using it to assist with weekly payments. Unfortunately we can't share the link yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
 
