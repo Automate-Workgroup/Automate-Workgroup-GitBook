@@ -74,11 +74,10 @@ Scroll down to line 435 and change the text "Documentation made" to what ever la
 | Task               | Hours | Charge @ $55 an hour |
 | ------------------ | ----- | -------------------- |
 | Coding             | 17    | 55                   |
-| Research           | 20    | 55                   |
 | Dework space setup | 1     | 55                   |
 | Documentation      | 1     | 55                   |
 |                    |       |                      |
-| Totals             | 39    | 2145                 |
+| Totals             | 19    | 1045                 |
 
 ## Where is this in production
 
