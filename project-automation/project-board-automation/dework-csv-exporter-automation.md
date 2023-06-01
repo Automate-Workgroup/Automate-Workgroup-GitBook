@@ -80,8 +80,8 @@ and change the "ACEDeworkcsvExport" and id number.
 | Task               | Hours | Charge @ $55 an hour |
 | ------------------ | ----- | -------------------- |
 | Coding             |       |                      |
-| Dework space setup |       |                      |
-| Documentation      |       |                      |
+| Dework space setup | 1     | 55                   |
+| Documentation      | 1     | 55                   |
 |                    |       |                      |
 | Totals             |       |                      |
 
