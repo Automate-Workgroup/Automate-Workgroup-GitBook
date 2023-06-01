@@ -28,7 +28,7 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 
 ## Step 1 - Clone Repo
 
-Clone this repo - [https://github.com/Andre-Diamond/dework-performance-dashboard](https://github.com/Andre-Diamond/dework-performance-dashboard)\
+Clone this repo - [https://github.com/Andre-Diamond/dework-csv-exporter](https://github.com/Andre-Diamond/dework-csv-exporter)\
 and set up your working environment - If you dont know how to - Follow this guide&#x20;
 
 {% content-ref url="../general-introduction/how-to-clone-a-github-repo.md" %}
