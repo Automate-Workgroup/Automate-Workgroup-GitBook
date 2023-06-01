@@ -59,9 +59,15 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 ## Charging
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Task               | Hours | Charge @ $55 an hour |
+| ------------------ | ----- | -------------------- |
+| Coding             |       |                      |
+| Dework space setup |       |                      |
+| Documentation      |       |                      |
+|                    |       |                      |
+| Totals             |       |                      |
+
+## Where is this in production
+
+Governance Guild is using it to assist with monthly reports. Unfortunately we can't share the link yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
 
