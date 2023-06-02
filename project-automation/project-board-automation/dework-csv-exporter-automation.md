@@ -26,13 +26,13 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 
 {% endhint %}
 
-## Step 1 - Clone Repo
+## Step 1 - Fork Repo
 
-Clone this repo - [https://github.com/Andre-Diamond/dework-csv-exporter](https://github.com/Andre-Diamond/dework-csv-exporter)\
+Fork this repo - [https://github.com/Andre-Diamond/dework-csv-exporter](https://github.com/Andre-Diamond/dework-csv-exporter)\
 and set up your working environment - If you dont know how to - Follow this guide&#x20;
 
-{% content-ref url="../general-introduction/how-to-clone-a-github-repo.md" %}
-[how-to-clone-a-github-repo.md](../general-introduction/how-to-clone-a-github-repo.md)
+{% content-ref url="../general-introduction/how-to-fork-a-github-repo.md" %}
+[how-to-fork-a-github-repo.md](../general-introduction/how-to-fork-a-github-repo.md)
 {% endcontent-ref %}
 
 ## Step 2 - Find your Workspace ID
