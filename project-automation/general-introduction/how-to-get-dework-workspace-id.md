@@ -24,7 +24,7 @@ To find out what your workspace id is go to the project board in Dework. Right c
 
 Next click on Network and refresh the page.
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 ## Step 3 - Find and select GraphQL query
 
