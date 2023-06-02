@@ -34,13 +34,13 @@ You can find installation download here
 4. Click on the "Code" button, which is located near the top-right corner of the repository page.&#x20;
 5. Next click on "Open with GitHub Desktop" and then click on the clone button in GitHub Desktop.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ## Step 4 - Open with VS Code (Still in GitHub Desktop)
 
 After you cloned the repo, click on the "Open in Visual Studio Code" button.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 It should then open VS code and you can start editing the code.
 
