@@ -1,5 +1,5 @@
 ---
-description: A Guide to clone a GitHub repo
+description: A Guide to fork a GitHub repo
 ---
 
 # How to fork a GitHub repo
@@ -12,7 +12,7 @@ Funded by - Fund 8 Automate, Educate, Communicate
 
 ## Overview
 
-Cloning a GitHub repo is fairly easy.&#x20;
+Forking a GitHub repo is fairly easy.&#x20;
 
 ## Step 1 - Install GitHub for Desktop
 
