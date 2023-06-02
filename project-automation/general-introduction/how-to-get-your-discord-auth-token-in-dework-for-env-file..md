@@ -42,10 +42,28 @@ Select graphql?op=GetWorkspaceTasksQuery and click on Headers. Look on the right
 
 Here is an example of how the Auth token is used in the code. Notice how we use the name we assigned to the token in the .env file.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)
 
 ## !!! Important !!!&#x20;
 
 One more very important thing to do is to update your .gitignore file. You need to add ".env" on a new line. This will exclude your .env file when commiting to GitHub. This is very important as you don't want to share your Auth tokens with the world. These tokens basically give people access to your account. Here is an example of the ".env" added to the .gitignore file.
 
 ![](<../../.gitbook/assets/image (6).png>)
+
+You will also need to add your Discord Auth tokens on Netlify when you deploy your site. You can see how to do that in the link below.
+
+{% content-ref url="how-to-deploy-to-neltify.md" %}
+[how-to-deploy-to-neltify.md](how-to-deploy-to-neltify.md)
+{% endcontent-ref %}
+
+## Closing
+
+That covers everything needed to find and use your Discord Auth token. Below you will find 2 projects that makes use of this Auth token.
+
+{% content-ref url="../project-board-automation/dework-performance-dashboard-automation.md" %}
+[dework-performance-dashboard-automation.md](../project-board-automation/dework-performance-dashboard-automation.md)
+{% endcontent-ref %}
+
+{% content-ref url="../project-board-automation/dework-csv-exporter-automation.md" %}
+[dework-csv-exporter-automation.md](../project-board-automation/dework-csv-exporter-automation.md)
+{% endcontent-ref %}

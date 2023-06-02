@@ -65,7 +65,7 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 If you want to change the name above the table (currently - Automate, Educate, Communicate (Samples)) go to line 164 in the Home.vue file and change the text between the \<tr> brackets.
 
-I![](../../.gitbook/assets/image.png)
+I![](<../../.gitbook/assets/image (1).png>)
 
 You can also add more bounty boards, just add more of the following below line 15 in the Home.vue file -&#x20;
 
