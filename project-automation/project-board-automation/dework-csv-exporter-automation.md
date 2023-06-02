@@ -49,7 +49,7 @@ You can change the organization and workgroup ids in the code in the Home.vue fi
 \
 You can change "ACEAMainProject" to anything you want and then the id which looks like this "65345970-fcb3-4962-be04-c1a3276157bd".&#x20;
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 When you change the organiztion id in  -  const orgACE = 'd1ce833b-ab25-4a3b-a0a1-2fbc2077b8cc' only change the id, DO NOT change the "orgACE" as it will lead to bugs if you do not change it everywhere it features.
 

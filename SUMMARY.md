@@ -19,6 +19,7 @@
   * [How to create a PAT token (Personal Access Token)](project-automation/general-introduction/pat-token.md)
   * [Use of Javascript](project-automation/general-introduction/use-of-javascript.md)
   * [How to get your Dework Workspace id](project-automation/general-introduction/how-to-get-dework-workspace-id.md)
+  * [How to get your Discord Auth token in Dework](project-automation/general-introduction/how-to-get-your-discord-auth-token-in-dework.md)
   * [How to clone a GitHub repo](project-automation/general-introduction/how-to-clone-a-github-repo.md)
   * [How to deploy to Neltify](project-automation/general-introduction/how-to-deploy-to-neltify.md)
 * [Automations](project-automation/project-board-automation/README.md)

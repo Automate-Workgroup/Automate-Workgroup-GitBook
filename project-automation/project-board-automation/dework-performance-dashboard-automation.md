@@ -47,7 +47,7 @@ To find out what your workspace id is follow these guidelines&#x20;
 
 You can change the workspace and workgroup name in the code in the Home.vue file. Right at the top of the file you will find these 2 variables
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ## Step 4 - Deploy the webpage
 
@@ -61,7 +61,7 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 You can also add some extra stats yourself.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Scroll down to line 165 in the Home.vue file. This will update the number for tasks that have the documentation tag. To use this remove the 2 slashes. If you dont have tasks with that label it wont run the page. To capture a different label change "documentation" in "everyTask.tags\["documentation"].tasks" to the label you want to capture. To avoid bugs, try using one word labels or if its 2 words connect them with a dash like so "tool-development". Do these label changes in dework and then make the changes to the code.
 
