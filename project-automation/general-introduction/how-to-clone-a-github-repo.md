@@ -40,3 +40,7 @@ After you cloned the repo, click on the "Open in Visual Studio Code" button.
 
 It should then open VS code and you can start editing the code.
 
+## Final Thoughts
+
+Please note that you would want to clone your own repo, so that when you push commits in VScode it sends it to your own repo and not to someone else's repo. Unless you are contributing to someone else's project.
+
