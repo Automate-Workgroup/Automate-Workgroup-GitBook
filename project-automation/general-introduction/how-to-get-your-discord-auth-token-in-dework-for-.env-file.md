@@ -4,7 +4,7 @@ description: >-
   file after you cloned a GitHub project.
 ---
 
-# How to get your Discord Auth token in Dework for env file.
+# How to get your Discord Auth token in Dework for .env file
 
 {% hint style="info" %}
 Written by : André Diamond
@@ -40,7 +40,7 @@ Select graphql?op=GetWorkspaceTasksQuery and click on Headers. Look on the right
 
 ![](<../../.gitbook/assets/image (2) (1).png>)
 
-Here is an example of how the Auth token is used in the code. Notice how we use the name we assigned to the token in the .env file.
+Here is an example of how the Auth token is used in the code. Notice how we use the name we assigned to the token in the .env file. In this case we use "import.meta.env.VITE\_DEWORK\_AUTH" to call the environment variable.
 
 ![](<../../.gitbook/assets/image (3).png>)
 

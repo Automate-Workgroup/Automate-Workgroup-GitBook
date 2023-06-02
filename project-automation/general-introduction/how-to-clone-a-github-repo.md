@@ -48,7 +48,7 @@ It should then open VS code and you can start editing the code.
 
 For the Vue projects in the Automations section in this GitBook to work, you would need to create and update your .env file in the code. You can see how to do that in the llink below.
 
-{% content-ref url="how-to-get-your-discord-auth-token-in-dework-for-env-file..md" %}
-[how-to-get-your-discord-auth-token-in-dework-for-env-file..md](how-to-get-your-discord-auth-token-in-dework-for-env-file..md)
+{% content-ref url="how-to-get-your-discord-auth-token-in-dework-for-.env-file.md" %}
+[how-to-get-your-discord-auth-token-in-dework-for-.env-file.md](how-to-get-your-discord-auth-token-in-dework-for-.env-file.md)
 {% endcontent-ref %}
 

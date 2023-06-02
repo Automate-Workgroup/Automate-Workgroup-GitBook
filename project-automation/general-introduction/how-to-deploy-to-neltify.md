@@ -50,8 +50,8 @@ Now enter the key and value as they are saved in the .env file you created in yo
 
 If you don't know where to find your .env variables or what they are, please have a look here.
 
-{% content-ref url="how-to-get-your-discord-auth-token-in-dework-for-env-file..md" %}
-[how-to-get-your-discord-auth-token-in-dework-for-env-file..md](how-to-get-your-discord-auth-token-in-dework-for-env-file..md)
+{% content-ref url="how-to-get-your-discord-auth-token-in-dework-for-.env-file.md" %}
+[how-to-get-your-discord-auth-token-in-dework-for-.env-file.md](how-to-get-your-discord-auth-token-in-dework-for-.env-file.md)
 {% endcontent-ref %}
 
 ## Step 4 - Re-deploy site
