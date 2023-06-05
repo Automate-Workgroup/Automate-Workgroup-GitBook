@@ -81,5 +81,9 @@ Scroll down to line 434 and change the text "Documentation made" to what ever la
 
 ## Where is this in production
 
-Governance Guild is using it to assist with monthly reports. Unfortunately we can't share the link yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
+Governance Guild is using it to assist with monthly reports. Link to the repo below.
+
+{% embed url="https://github.com/Governance-Services-Guild/Governance-Guild-Dework-Dashboard" %}
+
+Unfortunately we can't share the link to the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
 
