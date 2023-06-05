@@ -67,7 +67,7 @@ Scroll down to line 165 in the Home.vue file. This will update the number for ta
 
 Scroll down to line 438 and change the text "Documentation made" to what ever label you want to capture.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 ## Charging
 
