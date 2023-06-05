@@ -87,5 +87,8 @@ and change the "ACEDeworkcsvExport" and id number.
 
 ## Where is this in production
 
-Treasury Guild is using it to assist with weekly payments. Unfortunately we can't share the link yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
+Treasury Guild is using it to assist with weekly payments. Here is the repo of the page Treasury Guild uses.
 
+{% embed url="https://github.com/treasuryguild/dework-exporter" %}
+
+Unfortunately we can't share the link of the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
