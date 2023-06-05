@@ -40,7 +40,7 @@ You can find installation download here
 
 After you cloned the repo, click on the "Open in Visual Studio Code" button.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 It should then open VS code and you can start editing the code.
 

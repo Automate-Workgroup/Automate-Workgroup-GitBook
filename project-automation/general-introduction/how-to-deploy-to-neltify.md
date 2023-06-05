@@ -28,7 +28,7 @@ On the home page click on "Add new site" and select "Import an existing project"
 
 Next click on the GitHub button and follow the Authorization process
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Next Select the repo you want to add and then click on deploy site
 
