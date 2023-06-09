@@ -10,7 +10,7 @@ coverY: 0
 
 Automate, Educate, Communicate ! is a collaboration between Treasury Guild and QADAO on governance automation, education and communication.&#x20;
 
-We have have worked on a number of projects together including ..
+We have worked on a number of projects together including ..
 
 Fund 6 - Distributed Auditability - [Link](https://cardano.ideascale.com/c/idea/58679)
 
