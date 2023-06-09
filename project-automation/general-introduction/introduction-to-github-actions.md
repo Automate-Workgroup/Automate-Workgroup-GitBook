@@ -10,6 +10,8 @@ description: >-
 Written by : Andre
 
 Funded by : F6  Distributed Auditability
+
+Licence - [Creative Commons : Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 {% endhint %}
 
 ### 1. Introduction
