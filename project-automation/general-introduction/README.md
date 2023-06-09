@@ -13,7 +13,7 @@ The goal of Project Automation is to look at how different projects are managed 
 Please note this GitBook is a working GitBook and some resources are still a work in progress. You can identify the automations that are complete and working by looking out for these Author Tabs at the top of the documentation page
 
 {% hint style="info" %}
-Written by : Andre
+Written by : Andre Diamond
 
 Funded by : F6  Distributed Auditability
 

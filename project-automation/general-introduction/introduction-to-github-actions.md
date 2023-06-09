@@ -7,7 +7,7 @@ description: >-
 # Introduction to GitHub Actions
 
 {% hint style="info" %}
-Written by : Andre
+Written by : Andre Diamond
 
 Funded by : F6  Distributed Auditability
 
