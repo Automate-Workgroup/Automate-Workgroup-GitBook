@@ -12,7 +12,11 @@ Automate, Educate, Communicate ! is a collaboration between Treasury Guild and Q
 
 We have have worked on a number of projects together including ..
 
-<mark style="color:red;">List of projects incl F6 and F8 proposal</mark>
+Fund 6 - Distributed Auditability - [Link](https://cardano.ideascale.com/c/idea/58679)
+
+Fund 6 - Open Source Trainging - [Link](https://cardano.ideascale.com/c/idea/58977)
+
+Fund 8 - Automate, Educate, Communicate - [Link](https://cardano.ideascale.com/c/idea/62054)
 
 ## Who we are
 
@@ -33,8 +37,6 @@ If your project needs a platform like Dework, our team does well on the Dework p
 Some projects inform their team members, the community about their transactions via, for example, Discord. We can create a special channel for you on Discrod where members and the community will receive notifications in real time about all payments and withdrawals that happen in the wallet.
 
 Where does the problem maybe can arise? If you have only one wallet that receives funds for several projects, there could be problems. Our team with special tools and skills can easily track all past incomes and withdrawals and arrange the wallet in such a way that all incomes and withdrawals are clear and easy to understand.&#x20;
-
-
 
 
 
