@@ -4,7 +4,13 @@ description: Create Pat token and place in action secret
 
 # How to create a PAT token (Personal Access Token)
 
-<mark style="color:red;">Add author of this section</mark>
+{% hint style="info" %}
+Developed by : André Diamond
+
+Funded by - Fund 6 Distributed Auditability
+
+Licence - [Creative Commons : Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+{% endhint %}
 
 ## Overview
 
