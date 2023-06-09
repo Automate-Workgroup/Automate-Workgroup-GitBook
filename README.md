@@ -18,6 +18,8 @@ Fund 6 - Open Source Trainging - [Link](https://cardano.ideascale.com/c/idea/589
 
 Fund 8 - Automate, Educate, Communicate - [Link](https://cardano.ideascale.com/c/idea/62054)
 
+Fund 8 - ABC of Governance - [Link](https://cardano.ideascale.com/c/idea/62056)
+
 ## Who we are
 
 Treasury Guild and QADAO are a team with many years of experience in accounting, blockchain governance, software development, consultancy, test & project management, social enterprise, investment banking, telecoms, local government, small business operations, financial management and human resources.
