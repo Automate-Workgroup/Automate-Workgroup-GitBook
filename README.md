@@ -44,43 +44,34 @@ Where does the problem maybe can arise? If you have only one wallet that receive
 
 {% embed url="https://www.treasuryguild.io/" %}
 
+{% embed url="https://treasuryguild.com" %}
+
 {% embed url="https://treasuryguild.github.io/Gitbook/" %}
 
 ### QADAO
 
-Some intro text. GitBooks and Proposals
+Quality Assurance DAO (QADAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community.
+
+Quality Assurance DAO (QADAO) began in April 2021 with an Open Source Feedback survey and submitted a proposal “Quality-Assurance-DAO” in the Fund 5: Developer ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. QADAO went on to document the pathway of a funded cohort & began to assess Project Catalyst’s reporting requirements.
+
+We provide the following services :
+
+Documentation and Communication
+
+Auditing and Oversight
+
+Governance and Community Support
+
+Training and Education
+
+Project Management and Automation
 
 {% embed url="https://quality-assurance-dao.github.io/" %}
 
 {% embed url="https://quality-assurance-dao.github.io/docs/proposals/" %}
 
-## What we have done
-
-### Our Proposals
-
-F8 Automate, Educate, Communicate
-
-[https://cardano.ideascale.com/c/idea/398131](https://cardano.ideascale.com/c/idea/398131)
-
-F9 Treasury Advisory Service
-
-[https://cardano.ideascale.com/c/idea/418844](https://cardano.ideascale.com/c/idea/418844)
-
-## Why you should work with us
+## Why Automate, Educate, Communicate
 
 Values - We put transparency first and follow open source principles.
 
-Our approach - Most projects on Catalyst evolve as they execute their deliverables. As these changes happen we also need to adapt and update the treasury project plan. Monthly reports will be generated and presented to the project team to open up any changes to the original plan and agree on the updated plan. Any updates to the monthly payments will be decided based on the monthly report. We will then prepare the information for the upcoming payments in spreadsheets and on the day IOG releases the funds we will make all the agreed upon payments. All transactions we execute carry metadata and are documented for public viewing. We will either share or have sole access to the wallet that holds the funds.
-
-## What we offer
-
-Treasury Guild advisory service will manage budgets & document transactions so that everything is accessible and transparent. We will also provide Project Management support to ease proposal delivery.
-
-\
-Our deliverables
-
-### Treasury Advisory Service
-
-comprises -
-
-### Resources
+Our approach - We are involved in a lot of projects in Catalyst as well as Singularity Net. Doing work in these projects, we realised the need for certain automations and tools. All automations we have built and used in these projects have also been documented in this GitBook to open up these resources to the community.&#x20;
