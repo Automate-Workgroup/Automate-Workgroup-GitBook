@@ -49,7 +49,7 @@ To find out what your workspace id is follow these guidelines&#x20;
 
 You can change the workspace and workgroup name in the code in the Home.vue file. Right at the top of the file you will find these 2 variables
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
 
 ## Step 4 - Deploy the webpage
 
@@ -87,5 +87,7 @@ Governance Guild is using it to assist with monthly reports. Link to the repo be
 
 {% embed url="https://github.com/Governance-Services-Guild/Governance-Guild-Dework-Dashboard" %}
 
-Unfortunately we can't share the link to the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
+Unfortunately we can't share the link to the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here. Here is a Screenshot of the tool in action.
+
+![](<../../.gitbook/assets/image (4).png>)
 

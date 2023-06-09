@@ -48,7 +48,7 @@ Select "Environment variables" and click on "Add a variable" and select "Add a s
 
 Now enter the key and value as they are saved in the .env file you created in your code and click "Create variable"
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 If you don't know where to find your .env variables or what they are, please have a look here.
 
@@ -60,7 +60,7 @@ If you don't know where to find your .env variables or what they are, please hav
 
 Select Deploys in the left and click on "Trigger deploy" on the right and select "Clear cache and deploy site"
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ## Final thoughts
 

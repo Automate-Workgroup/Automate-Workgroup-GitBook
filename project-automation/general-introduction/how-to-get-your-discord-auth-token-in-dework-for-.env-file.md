@@ -34,7 +34,7 @@ Next click on Network and refresh the page.
 
 Select graphql?op=GetWorkspaceTasksQuery and click on Headers. Look on the right and scroll down until you see authorization. You need to copy the entire string 'Bearer eyJhbGc......'
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 ## Step 4 - Create .env file and add Auth token
 

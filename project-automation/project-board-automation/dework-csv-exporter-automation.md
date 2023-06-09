@@ -51,7 +51,7 @@ You can change the organization and workgroup ids in the code in the Home.vue fi
 \
 You can change "ACEAMainProject" to anything you want and then the id which looks like this "65345970-fcb3-4962-be04-c1a3276157bd".&#x20;
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 When you change the organiztion id in  -  const orgACE = 'd1ce833b-ab25-4a3b-a0a1-2fbc2077b8cc' only change the id, DO NOT change the "orgACE" as it will lead to bugs if you do not change it everywhere it features.
 
@@ -93,4 +93,6 @@ Treasury Guild is using it to assist with weekly payments. Here is the repo of t
 
 {% embed url="https://github.com/treasuryguild/dework-exporter" %}
 
-Unfortunately we can't share the link of the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here.
+Unfortunately we can't share the link of the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here. Here is a screenshot of the tool in action.
+
+![](<../../.gitbook/assets/image (7).png>)
