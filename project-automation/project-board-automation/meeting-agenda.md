@@ -8,6 +8,8 @@ description: Project Board Agenda Automation
 Developed by : André Diamond
 
 Funded by - Fund 8 Automate, Educate, Communicate
+
+Licence - [Creative Commons : Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 {% endhint %}
 
 ## Overview
