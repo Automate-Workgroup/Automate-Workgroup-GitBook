@@ -4,9 +4,17 @@ description: Import GitHub Data to Google Sheets
 
 # API Connector
 
+{% hint style="info" %}
+Developed by : Stephen Whitenstall
+
+Funded by - Fund 8 Automate, Educate, Communicate
+
+Licence - [Creative Commons : Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+{% endhint %}
+
 ## Circle Action Items
 
-Track Catalyst Circle Action Items on a [GitHub Board](https://github.com/orgs/Catalyst-Circle/projects/4/views/29)&#x20;
+Track Catalyst Circle Action Items on a [GitHub Board](https://github.com/orgs/Catalyst-Circle/projects/4/views/29)
 
 Export open issues to a Google Sheet
 
@@ -41,4 +49,3 @@ Learn the foundations for using the REST API, starting with authentication and s
 API Connector is a powerful, easy-to-use extension that pulls data from any API into Google Sheets. Start quickly with a library of connectors, or create your own custom connections to the data sources you choose.
 
 {% embed url="https://workspace.google.com/marketplace/app/api_connector/95804724197" %}
-
