@@ -59,6 +59,32 @@ We are proud of what we've achieved under challenging circumstances. We believe 
 
 ## Links to Other Relevant Project Sources or Documents
 
+[Automate, Educate, Communicate GitBook - General Introduction](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/general-introduction) &#x20;
 
+[Automations](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/project-board-automation)&#x20;
+
+[Documentation for Automations Automated Meeting Agenda GitHub Action](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/project-board-automation/meeting-agenda)&#x20;
+
+[GitHub Action to automatically add labels to created issues](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/project-board-automation/issue%20-labels)
+
+[JavaScript webpage that Displays Dework Performance Stats](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/project-board-automation/dework-performance-dashboard-automation)
+
+[JavaScript webpage that assists in exporting csvs from multiple Dework bounty boards ](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/project-board-automation/dework-csv-exporter-automation)
+
+[Documentation on How to get your Dework Workspace id ](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/general-introduction/how-to-get-your-dework-workspace-id)
+
+[Documentation on How to Get and use your Discord Auth Token ](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/general-introduction/how-to-get-your-discord-auth-token-in-dework-for-.env-file)
+
+[Documentation on How to Fork a repo ](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/general-introduction/how-to-fork-a-github-repo)
+
+[Documentation on How to deploy your code to Netlify ](https://quality-assurance-dao.gitbook.io/treasury-advisory-service/project-automation/general-introduction/how-to-deploy-to-neltify)
+
+[Link to Dework Monthly Performance Dashboard](https://dework-performance-dashboard.netlify.app) &#x20;
+
+[Link to CSV Exporter](https://dework-exporter.netlify.app)&#x20;
+
+[Close Out Slides](https://docs.google.com/presentation/d/1eyia81XehMYQF7cdgPuOoJaxeunge5LwOMcLo1w\_pUA/edit?usp=sharing)
+
+[Close Out Video](https://www.youtube.com/watch?v=1F0JyNdqbzY)
 
 \
