@@ -4,7 +4,7 @@ description: An example of how to create and manage tasks on Dework
 
 # dework Project Board
 
-## dework organisation
+## Dework organisation
 
 {% embed url="https://app.dework.xyz/community-governance" %}
 
