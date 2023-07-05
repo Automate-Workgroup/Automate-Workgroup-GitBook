@@ -33,16 +33,16 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 Fork this repo - [https://github.com/Andre-Diamond/dework-csv-exporter](https://github.com/Andre-Diamond/dework-csv-exporter)\
 and set up your working environment - If you dont know how to - Follow this guide&#x20;
 
-{% content-ref url="../general-introduction/how-to-clone-a-github-repo.md" %}
-[how-to-clone-a-github-repo.md](../general-introduction/how-to-clone-a-github-repo.md)
+{% content-ref url="../general-introduction/how-to-fork-a-github-repo.md" %}
+[how-to-fork-a-github-repo.md](../general-introduction/how-to-fork-a-github-repo.md)
 {% endcontent-ref %}
 
 ## Step 2 - Find your Workspace ID
 
 To find out what your workspace id is follow these guidelines&#x20;
 
-{% content-ref url="../general-introduction/how-to-get-dework-workspace-id.md" %}
-[how-to-get-dework-workspace-id.md](../general-introduction/how-to-get-dework-workspace-id.md)
+{% content-ref url="../general-introduction/how-to-get-your-dework-workspace-id.md" %}
+[how-to-get-your-dework-workspace-id.md](../general-introduction/how-to-get-your-dework-workspace-id.md)
 {% endcontent-ref %}
 
 ## Step 3 - Change Org and Workspace id in code
@@ -51,7 +51,7 @@ You can change the organization and workgroup ids in the code in the Home.vue fi
 \
 You can change "ACEAMainProject" to anything you want and then the id which looks like this "65345970-fcb3-4962-be04-c1a3276157bd".&#x20;
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 When you change the organiztion id in  -  const orgACE = 'd1ce833b-ab25-4a3b-a0a1-2fbc2077b8cc' only change the id, DO NOT change the "orgACE" as it will lead to bugs if you do not change it everywhere it features.
 
@@ -67,7 +67,7 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 If you want to change the name above the table (currently - Automate, Educate, Communicate (Samples)) go to line 164 in the Home.vue file and change the text between the \<tr> brackets.
 
-I![](<../../.gitbook/assets/image (1) (1).png>)
+I![](<../../.gitbook/assets/image (2).png>)
 
 You can also add more bounty boards, just add more of the following below line 15 in the Home.vue file -&#x20;
 
@@ -95,4 +95,4 @@ Treasury Guild is using it to assist with weekly payments. Here is the repo of t
 
 Unfortunately we can't share the link of the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here. Here is a screenshot of the tool in action.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (9).png>)

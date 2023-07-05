@@ -2,7 +2,7 @@
 description: A Guide to deploy your code to Netlify
 ---
 
-# How to deploy to Neltify
+# How to deploy to Netlify
 
 {% hint style="info" %}
 Written by : André Diamond
@@ -26,29 +26,29 @@ You can login with GitHub as well. Below is the link to Netlify
 
 On the home page click on "Add new site" and select "Import an existing project"
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
 Next click on the GitHub button and follow the Authorization process
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 Next Select the repo you want to add and then click on deploy site
 
-![](<../../.gitbook/assets/image (8).png>)
+![](../../.gitbook/assets/image.png)
 
 ## Step 3 - Adding your .env variables
 
 After you added your site, go to site settings
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (16).png>)
 
 Select "Environment variables" and click on "Add a variable" and select "Add a single variaable"
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 Now enter the key and value as they are saved in the .env file you created in your code and click "Create variable"
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 If you don't know where to find your .env variables or what they are, please have a look here.
 
@@ -60,7 +60,7 @@ If you don't know where to find your .env variables or what they are, please hav
 
 Select Deploys in the left and click on "Trigger deploy" on the right and select "Clear cache and deploy site"
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 ## Final thoughts
 

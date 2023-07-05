@@ -33,23 +33,23 @@ This tool exposes your Discord Auth token, so anyone with access to the webpage 
 Fork this repo - [https://github.com/Andre-Diamond/dework-performance-dashboard](https://github.com/Andre-Diamond/dework-performance-dashboard)\
 and set up your working environment - If you dont know how to - Follow this guide&#x20;
 
-{% content-ref url="../general-introduction/how-to-clone-a-github-repo.md" %}
-[how-to-clone-a-github-repo.md](../general-introduction/how-to-clone-a-github-repo.md)
+{% content-ref url="../general-introduction/how-to-fork-a-github-repo.md" %}
+[how-to-fork-a-github-repo.md](../general-introduction/how-to-fork-a-github-repo.md)
 {% endcontent-ref %}
 
 ## Step 2 - Find your Workspace ID
 
 To find out what your workspace id is follow these guidelines&#x20;
 
-{% content-ref url="../general-introduction/how-to-get-dework-workspace-id.md" %}
-[how-to-get-dework-workspace-id.md](../general-introduction/how-to-get-dework-workspace-id.md)
+{% content-ref url="../general-introduction/how-to-get-your-dework-workspace-id.md" %}
+[how-to-get-your-dework-workspace-id.md](../general-introduction/how-to-get-your-dework-workspace-id.md)
 {% endcontent-ref %}
 
 ## Step 3 - Change Workspace id in code
 
 You can change the workspace and workgroup name in the code in the Home.vue file. Right at the top of the file you will find these 2 variables
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Step 4 - Deploy the webpage
 
@@ -63,13 +63,13 @@ Deploy the site using your favourite provider. If you have never deployed a site
 
 You can also add some extra stats yourself.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 Scroll down to line 167 in the Home.vue file. This will update the number for tasks that have the documentation tag. To use this remove the 2 slashes. If you dont have tasks with that label it wont run the page. To capture a different label change "documentation" in "everyTask.tags\["documentation"].tasks" to the label you want to capture. To avoid bugs, try using one word labels or if its 2 words connect them with a dash like so "tool-development". Do these label changes in dework and then make the changes to the code.
 
 Scroll down to line 440 and change the text "Documentation made" to what ever label you want to capture.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (24).png>)
 
 ## Charging
 
@@ -89,5 +89,5 @@ Governance Guild is using it to assist with monthly reports. Link to the repo be
 
 Unfortunately we can't share the link to the page yet as the Discord token is still exposed. As soon as its updated to a more sharable version we will share a link here. Here is a Screenshot of the tool in action.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
