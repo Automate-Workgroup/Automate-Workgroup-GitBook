@@ -6,15 +6,15 @@
 
 Automate, Educate, Communicate
 
-### Please provide a link to your Catalyst proposal on Ideascale.&#x20;
+### Please provide a link to your Catalyst proposal on Ideascale.
 
 [https://cardano.ideascale.com/c/idea/398131](https://cardano.ideascale.com/c/idea/398131)
 
-### What is the primary Ideascale username that published the proposal?&#x20;
+### What is the primary Ideascale username that published the proposal?
 
-@swhitenstall&#x20;
+@swhitenstall
 
-### Please, provide ONE sentence description of your project that best characterizes its purpose and intent.&#x20;
+### Please, provide ONE sentence description of your project that best characterizes its purpose and intent.
 
 To incentivized development, training materials & open-source communication
 
@@ -92,21 +92,9 @@ South Africa , Croatia, UK
 
 ### Which timezone are you primarily based in? \*
 
-Please provide a timezone based on UTC  (e.g UTC+1 or UTC-6 etc)
+Please provide a timezone based on UTC (e.g UTC+1 or UTC-6 etc)
 
 UTC +2
-
-
-
-
-
-****
-
-
-
-****
-
-
 
 
 

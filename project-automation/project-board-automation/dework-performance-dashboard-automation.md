@@ -55,8 +55,8 @@ You can change the workspace and workgroup name in the code in the Home.vue file
 
 Deploy the site using your favourite provider. If you have never deployed a site before follow these guidelines.
 
-{% content-ref url="../general-introduction/how-to-deploy-to-neltify.md" %}
-[how-to-deploy-to-neltify.md](../general-introduction/how-to-deploy-to-neltify.md)
+{% content-ref url="../general-introduction/how-to-deploy-to-netlify.md" %}
+[how-to-deploy-to-netlify.md](../general-introduction/how-to-deploy-to-netlify.md)
 {% endcontent-ref %}
 
 ## Step 5 - Extra things to note

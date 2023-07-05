@@ -21,7 +21,7 @@
   * [How to get your Dework Workspace id](project-automation/general-introduction/how-to-get-dework-workspace-id.md)
   * [How to get your Discord Auth token in Dework for .env file](project-automation/general-introduction/how-to-get-your-discord-auth-token-in-dework-for-.env-file.md)
   * [How to fork a GitHub repo](project-automation/general-introduction/how-to-clone-a-github-repo.md)
-  * [How to deploy to Neltify](project-automation/general-introduction/how-to-deploy-to-neltify.md)
+  * [How to deploy to Netlify](project-automation/general-introduction/how-to-deploy-to-netlify.md)
   * [dework Project Board](project-automation/general-introduction/dework-project-board.md)
 * [Automations](project-automation/project-board-automation/README.md)
   * [Town Hall Slides](project-automation/project-board-automation/town-hall-slides.md)

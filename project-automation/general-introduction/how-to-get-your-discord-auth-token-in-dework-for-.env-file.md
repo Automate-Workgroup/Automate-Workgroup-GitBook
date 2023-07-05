@@ -54,8 +54,8 @@ One more very important thing to do is to update your .gitignore file. You need 
 
 You will also need to add your Discord Auth tokens on Netlify when you deploy your site. You can see how to do that in the link below.
 
-{% content-ref url="how-to-deploy-to-neltify.md" %}
-[how-to-deploy-to-neltify.md](how-to-deploy-to-neltify.md)
+{% content-ref url="how-to-deploy-to-netlify.md" %}
+[how-to-deploy-to-netlify.md](how-to-deploy-to-netlify.md)
 {% endcontent-ref %}
 
 ## Closing
