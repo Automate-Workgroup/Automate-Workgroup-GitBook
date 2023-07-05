@@ -42,7 +42,7 @@ After you added your site, go to site settings
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-Select "Environment variables" and click on "Add a variable" and select "Add a single variaable"
+Select "Environment variables" and click on "Add a variable" and select "Add a single variable"
 
 ![](<../../.gitbook/assets/image (21).png>)
 
