@@ -44,7 +44,7 @@ Where does the problem maybe can arise? If you have only one wallet that receive
 
 {% embed url="https://treasuryguild.com" %}
 
-{% embed url="https://treasuryguild.github.io/Gitbook/" %}
+{% embed url="https://andre-diamond.github.io/Gitbook/" %}
 
 ### QADAO
 
