@@ -70,7 +70,7 @@ Project Management and Automation
 
 {% embed url="https://quality-assurance-dao.github.io/docs/proposals/" %}
 
-## Why Automate, Educate, Communicate
+## Why Automate Workgroup
 
 Values - We put transparency first and follow open source principles.
 
