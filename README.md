@@ -4,11 +4,11 @@ cover: .gitbook/assets/graph.jpg
 coverY: 0
 ---
 
-# Automate, Educate, Communicate !
+# Automate Workgroup
 
 ## What we do
 
-Automate, Educate, Communicate ! is a collaboration between Treasury Guild and QADAO on governance automation, education and communication.&#x20;
+The Automate Workgroup is a collaboration between Treasury Guild and QADAO on governance automation, education and communication.
 
 We have worked on a number of projects together including ..
 
@@ -38,9 +38,7 @@ If your project needs a platform like Dework, our team does well on the Dework p
 
 Some projects inform their team members, the community about their transactions via, for example, Discord. We can create a special channel for you on Discrod where members and the community will receive notifications in real time about all payments and withdrawals that happen in the wallet.
 
-Where does the problem maybe can arise? If you have only one wallet that receives funds for several projects, there could be problems. Our team with special tools and skills can easily track all past incomes and withdrawals and arrange the wallet in such a way that all incomes and withdrawals are clear and easy to understand.&#x20;
-
-
+Where does the problem maybe can arise? If you have only one wallet that receives funds for several projects, there could be problems. Our team with special tools and skills can easily track all past incomes and withdrawals and arrange the wallet in such a way that all incomes and withdrawals are clear and easy to understand.
 
 {% embed url="https://www.treasuryguild.io/" %}
 
@@ -74,4 +72,4 @@ Project Management and Automation
 
 Values - We put transparency first and follow open source principles.
 
-Our approach - We are involved in a lot of projects in Catalyst as well as Singularity Net. Doing work in these projects, we realised the need for certain automations and tools. All automations we have built and used in these projects have also been documented in this GitBook to open up these resources to the community.&#x20;
+Our approach - We are involved in a lot of projects in Catalyst as well as Singularity Net. Doing work in these projects, we realised the need for certain automations and tools. All automations we have built and used in these projects have also been documented in this GitBook to open up these resources to the community.

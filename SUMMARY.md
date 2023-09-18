@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Automate, Educate, Communicate !](README.md)
+* [Automate Workgroup](README.md)
 * [GitBook](gitbook/README.md)
   * [How to set up a GitBook](gitbook/how-to-set-up-a-gitbook.md)
   * [Editing a GitBook](gitbook/editing-a-gitbook.md)
